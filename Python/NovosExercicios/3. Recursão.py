@@ -5,4 +5,4 @@ def fatorial(n):
         return n * fatorial(n - 1)
 
 resultado = fatorial(5)
-print(resultado)
+print(f"O fatorial do número é {resultado}")
