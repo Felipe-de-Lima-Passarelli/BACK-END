@@ -20,3 +20,7 @@ with open("Linhas.txt", "r", encoding = "utf-8") as arquivo:
 with open("Linhas.txt", "r", encoding = "utf-8") as arquivo:
     linhatotal = arquivo.readlines()
     print(f"O arquivo possui {len(linhatotal)} linhas no total")
+
+print(15*"-=")
+print("       Fim do Programa!")
+print(15*"-=")

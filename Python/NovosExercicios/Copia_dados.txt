@@ -1,0 +1,5 @@
+1ª Fruta: Abacaxi
+2ª Fruta: Banana
+3ª Fruta: Laranja
+4ª Fruta: Goiaba
+5ª Fruta: Limão
