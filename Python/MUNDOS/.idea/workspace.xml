@@ -4,99 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d4f4ee7-8f3a-4353-bab4-42d25e6e284b" name="Changes" comment="" />
+    <list default="true" id="f23cdb5f-839c-46c6-850a-1f359cc3dae4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2m3eXByPjEUz2OYOEkNuszhatP7" />
+  <component name="ProjectId" id="2nDZJcskjoZGgLjygAq20D0vxQ7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.100 - Funções para sortear e somar.executor": "Debug",
-    "Python.101 - Funções para votação.executor": "Debug",
-    "Python.102 - Função para Fatorial.executor": "Debug",
-    "Python.103 - Ficha do Jogador.executor": "Debug",
-    "Python.104 - Validando entrada de dados em Python.executor": "Debug",
-    "Python.105 - Analisando e gerando Dicionários.executor": "Debug",
-    "Python.106 - Sistema interativo de ajuda em Python.executor": "Debug",
-    "Python.107 - Exercitando módulos em Python.executor": "Debug",
-    "Python.108 - Formatando Moedas em Python 1.0.executor": "Debug",
-    "Python.109 - Formatando Moedas em Python 2.0.executor": "Debug",
-    "Python.110 - Reduzindo ainda mais seu programa.executor": "Debug",
-    "Python.111 - Transformando módulos em pacotes.executor": "Debug",
-    "Python.112 - Entrada de dados monetários.executor": "Debug",
-    "Python.113 - Funções aprofundadas em Python.executor": "Debug",
-    "Python.114 - Site está acessível.executor": "Debug",
-    "Python.115 (1).executor": "Debug",
-    "Python.115.executor": "Debug",
-    "Python.65 - Maior e Menor valores.executor": "Debug",
-    "Python.66 - Vários números com flag.executor": "Debug",
-    "Python.67 - Tabuada 3.0.executor": "Debug",
-    "Python.68 - Jogo do Par ou Ímpar.executor": "Debug",
-    "Python.69 - Análise de dados do grupo.executor": "Debug",
-    "Python.70 - Estatísticas em produtos.executor": "Debug",
-    "Python.71 - Simulador de Caixa Eletrônico.executor": "Debug",
-    "Python.72 - Número por Extenso.executor": "Debug",
-    "Python.73 - Tuplas com Times de Futebol.executor": "Debug",
-    "Python.74 - Maior e menor valores em Tupla.executor": "Debug",
-    "Python.75 - Análise de dados em uma Tupla.executor": "Debug",
-    "Python.76 - Lista de Preços com Tupla.executor": "Debug",
-    "Python.77 - Contando vogais em Tupla.executor": "Debug",
-    "Python.78 - Maior e Menor valores na Lista.executor": "Debug",
-    "Python.79 - Valores únicos em uma Lista.executor": "Debug",
-    "Python.80 - Lista ordenada sem repetições.executor": "Debug",
-    "Python.80 - Teste.executor": "Debug",
-    "Python.81 - Extraindo dados de uma Lista.executor": "Debug",
-    "Python.82 - Dividindo valores em várias listas.executor": "Debug",
-    "Python.83 - Validando expressões matemáticas.executor": "Debug",
-    "Python.84 - Lista composta e análise de dados.executor": "Debug",
-    "Python.85 - Listas com pares e ímpares.executor": "Debug",
-    "Python.86 - Matriz em Python (1).executor": "Debug",
-    "Python.86 - Matriz em Python.executor": "Debug",
-    "Python.86 - Teste.executor": "Debug",
-    "Python.87 - Mais sobre Matriz em Python.executor": "Debug",
-    "Python.88 - Palpites para a Mega Sena.executor": "Debug",
-    "Python.89 - Boletim com listas compostas.executor": "Run",
-    "Python.90 - Dicionário em Python.executor": "Debug",
-    "Python.91 - Jogo de Dados em Python.executor": "Debug",
-    "Python.92 - Cadastro de Trabalhador em Python.executor": "Debug",
-    "Python.93 - Cadastro de Jogador de Futebol.executor": "Debug",
-    "Python.94 - Unindo dicionários e listas.executor": "Debug",
-    "Python.95 - Aprimorando os Dicionários.executor": "Debug",
-    "Python.96 - Função que calcula área.executor": "Debug",
-    "Python.97 - Um print especial.executor": "Debug",
-    "Python.98 - Função de Contador.executor": "Debug",
-    "Python.99 - Função que descobre o maior.executor": "Debug",
+    "Notification.DisplayName-DoNotAsk-ConfiguredPythonInterpreter": "Python interpreter configured",
+    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
+    "Notification.DoNotAsk-ConfiguredPythonInterpreter": "true",
+    "Notification.DoNotAsk-Execution": "true",
+    "Python.0000-teste.executor": "Run",
+    "Python.11 - Pintando Parede.executor": "Run",
+    "Python.115 - Cadastro de Pessoas.executor": "Run",
+    "Python.13 - Reajuste Salarial.executor": "Run",
+    "Python.14 - Conversor de Temperaturas.executor": "Run",
+    "Python.22 - Analisador de Textos.executor": "Debug",
+    "Python.30 - Par ou Ímpar.executor": "Run",
+    "Python.41 - Classificando Atletas.executor": "Run",
+    "Python.7 - Média Aritmética.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vanes/OneDrive/Área de Trabalho/TI/ST Feshow/Python/POO"
+    "last_opened_file_path": "C:/Users/vanes/OneDrive/Área de Trabalho/TI/ST Feshow/Python/MUNDOS/MUNDO 1",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\MUNDOS\MUNDO 3 PARTE 2\Módulos" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\MUNDOS\MUNDO 3 PARTE 2\Exercício 115\arquivo" />
-      <recent name="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\MUNDOS\MUNDO 3 PARTE 2\115" />
+      <recent name="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\MUNDOS\MUNDO 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.112 - Entrada de dados monetários">
-    <configuration name="112 - Entrada de dados monetários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0000-teste">
+    <configuration name="0000-teste" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
       <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +53,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 1/0000-teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="115 - Cadastro de Pessoas" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 3 PARTE 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/112 - Entrada de dados monetários.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/115 - Cadastro de Pessoas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13 - Reajuste Salarial" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
       <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 3 PARTE 2" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/113 - Funções aprofundadas em Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 1/13 - Reajuste Salarial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="114 - Site está acessível" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14 - Conversor de Temperaturas" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
       <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 3 PARTE 2" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/114 - Site está acessível.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 1/14 - Conversor de Temperaturas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7 - Média Aritmética" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
       <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/Exercício 115" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 3 PARTE 2/Exercício 115/115.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 1/7 - Média Aritmética.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,38 +159,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true">
+      <module name="MUNDOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.0000-teste" />
+      <item itemvalue="Python.13 - Reajuste Salarial" />
+      <item itemvalue="Python.115 - Cadastro de Pessoas" />
+      <item itemvalue="Python.14 - Conversor de Temperaturas" />
+      <item itemvalue="Python.7 - Média Aritmética" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.115" />
-        <item itemvalue="Python.114 - Site está acessível" />
-        <item itemvalue="Python.113 - Funções aprofundadas em Python" />
-        <item itemvalue="Python.112 - Entrada de dados monetários" />
+        <item itemvalue="Python.0000-teste" />
+        <item itemvalue="Python.13 - Reajuste Salarial" />
+        <item itemvalue="Python.115 - Cadastro de Pessoas" />
+        <item itemvalue="Python.14 - Conversor de Temperaturas" />
+        <item itemvalue="Python.7 - Média Aritmética" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d4f4ee7-8f3a-4353-bab4-42d25e6e284b" name="Changes" comment="" />
-      <created>1726309724917</created>
+      <changelist id="f23cdb5f-839c-46c6-850a-1f359cc3dae4" name="Changes" comment="" />
+      <created>1728509535679</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726309724917</updated>
+      <updated>1728509535679</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="__exception__" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

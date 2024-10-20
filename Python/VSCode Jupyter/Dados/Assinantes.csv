@@ -1,0 +1,1001 @@
+id_cliente,idade,genero,tempo_assinatura,metodo_pagamento,pacote,regiao,status_assinatura
+1,58,Feminino,16,Débito,Premium,Centro-Oeste,Cancelado
+2,25,Outros,46,Cartão de Crédito,Premium,Sul,Cancelado
+3,19,Masculino,29,Cartão de Crédito,Premium,Norte,Ativo
+4,65,Feminino,29,Débito,Padrão,Nordeste,Ativo
+5,35,Outros,34,Cartão de Crédito,Premium,Nordeste,Cancelado
+6,33,Outros,34,Boleto,Premium,Centro-Oeste,Ativo
+7,32,Feminino,40,Débito,Premium,Sul,Ativo
+8,26,Feminino,11,Boleto,Padrão,Centro-Oeste,Cancelado
+9,65,Outros,24,Boleto,Básico,Centro-Oeste,Ativo
+10,24,Outros,24,Débito,Premium,Sul,Cancelado
+11,61,Feminino,59,Cartão de Crédito,Básico,Sudeste,Cancelado
+12,65,Feminino,19,Boleto,Básico,Norte,Ativo
+13,52,Outros,25,Boleto,Básico,Nordeste,Ativo
+14,23,Outros,27,Boleto,Básico,Sul,Cancelado
+15,55,Feminino,50,Débito,Premium,Nordeste,Cancelado
+16,45,Feminino,22,Cartão de Crédito,Padrão,Sul,Ativo
+17,20,Outros,44,Cartão de Crédito,Premium,Sul,Ativo
+18,19,Feminino,39,Débito,Padrão,Sudeste,Ativo
+19,23,Feminino,4,Débito,Premium,Centro-Oeste,Ativo
+20,31,Feminino,51,Cartão de Crédito,Premium,Norte,Cancelado
+21,32,Feminino,41,Débito,Básico,Sudeste,Ativo
+22,50,Masculino,42,Débito,Padrão,Nordeste,Ativo
+23,56,Masculino,22,Débito,Premium,Norte,Ativo
+24,19,Outros,5,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+25,53,Masculino,22,Cartão de Crédito,Padrão,Sudeste,Ativo
+26,30,Feminino,7,Boleto,Premium,Sul,Ativo
+27,63,Masculino,36,Cartão de Crédito,Padrão,Nordeste,Ativo
+28,59,Outros,44,Cartão de Crédito,Premium,Sudeste,Cancelado
+29,62,Outros,25,Boleto,Premium,Sudeste,Ativo
+30,52,Outros,19,Boleto,Básico,Norte,Ativo
+31,44,Masculino,17,Cartão de Crédito,Básico,Nordeste,Cancelado
+32,32,Masculino,47,Débito,Padrão,Nordeste,Cancelado
+33,46,Masculino,55,Boleto,Básico,Nordeste,Cancelado
+34,55,Outros,43,Cartão de Crédito,Padrão,Norte,Ativo
+35,35,Feminino,59,Cartão de Crédito,Premium,Nordeste,Cancelado
+36,69,Feminino,39,Boleto,Básico,Norte,Ativo
+37,18,Outros,56,Débito,Premium,Sul,Cancelado
+38,66,Outros,10,Débito,Básico,Norte,Cancelado
+39,69,Outros,22,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+40,28,Outros,6,Boleto,Básico,Nordeste,Ativo
+41,62,Feminino,38,Boleto,Premium,Centro-Oeste,Cancelado
+42,45,Masculino,43,Boleto,Padrão,Centro-Oeste,Ativo
+43,39,Masculino,10,Débito,Básico,Sul,Cancelado
+44,35,Feminino,59,Débito,Premium,Sudeste,Cancelado
+45,27,Masculino,23,Débito,Padrão,Sul,Ativo
+46,31,Feminino,20,Boleto,Padrão,Norte,Ativo
+47,66,Masculino,42,Cartão de Crédito,Básico,Norte,Cancelado
+48,39,Feminino,45,Débito,Premium,Nordeste,Cancelado
+49,24,Masculino,43,Boleto,Premium,Centro-Oeste,Cancelado
+50,23,Outros,26,Boleto,Padrão,Sul,Ativo
+51,42,Outros,9,Cartão de Crédito,Premium,Sudeste,Ativo
+52,24,Masculino,39,Cartão de Crédito,Padrão,Sul,Ativo
+53,40,Feminino,46,Boleto,Padrão,Nordeste,Ativo
+54,40,Masculino,6,Cartão de Crédito,Padrão,Sul,Ativo
+55,56,Masculino,20,Débito,Básico,Sudeste,Cancelado
+56,34,Outros,36,Boleto,Premium,Sudeste,Ativo
+57,69,Feminino,25,Débito,Básico,Centro-Oeste,Cancelado
+58,20,Outros,42,Boleto,Padrão,Centro-Oeste,Cancelado
+59,64,Masculino,51,Débito,Premium,Nordeste,Cancelado
+60,47,Outros,22,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+61,52,Feminino,53,Cartão de Crédito,Padrão,Norte,Ativo
+62,25,Masculino,9,Débito,Premium,Centro-Oeste,Cancelado
+63,42,Masculino,43,Boleto,Padrão,Norte,Cancelado
+64,23,Outros,45,Boleto,Padrão,Sul,Cancelado
+65,53,Feminino,54,Débito,Padrão,Norte,Cancelado
+66,36,Feminino,48,Débito,Padrão,Nordeste,Cancelado
+67,58,Feminino,44,Cartão de Crédito,Premium,Sudeste,Cancelado
+68,57,Feminino,59,Cartão de Crédito,Básico,Nordeste,Cancelado
+69,41,Feminino,34,Débito,Premium,Nordeste,Ativo
+70,54,Masculino,6,Débito,Básico,Nordeste,Cancelado
+71,30,Masculino,42,Boleto,Premium,Nordeste,Cancelado
+72,63,Feminino,43,Boleto,Padrão,Centro-Oeste,Ativo
+73,22,Feminino,28,Débito,Premium,Sul,Cancelado
+74,20,Masculino,33,Boleto,Premium,Sudeste,Cancelado
+75,60,Masculino,24,Cartão de Crédito,Premium,Norte,Cancelado
+76,32,Feminino,2,Boleto,Padrão,Norte,Cancelado
+77,67,Feminino,24,Débito,Básico,Sul,Cancelado
+78,36,Masculino,20,Cartão de Crédito,Premium,Nordeste,Cancelado
+79,23,Outros,12,Cartão de Crédito,Padrão,Nordeste,Ativo
+80,32,Outros,14,Cartão de Crédito,Básico,Sudeste,Ativo
+81,24,Outros,22,Boleto,Padrão,Norte,Ativo
+82,42,Masculino,50,Boleto,Básico,Nordeste,Cancelado
+83,35,Masculino,32,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+84,47,Masculino,13,Cartão de Crédito,Padrão,Sudeste,Ativo
+85,58,Outros,15,Boleto,Padrão,Centro-Oeste,Ativo
+86,41,Feminino,9,Boleto,Padrão,Centro-Oeste,Cancelado
+87,28,Masculino,10,Cartão de Crédito,Padrão,Sul,Cancelado
+88,41,Masculino,5,Boleto,Premium,Sul,Ativo
+89,40,Masculino,19,Boleto,Premium,Centro-Oeste,Ativo
+90,31,Outros,55,Boleto,Básico,Sul,Cancelado
+91,60,Feminino,51,Boleto,Premium,Centro-Oeste,Ativo
+92,35,Outros,7,Débito,Padrão,Nordeste,Ativo
+93,62,Outros,33,Débito,Padrão,Sul,Ativo
+94,61,Outros,50,Débito,Premium,Centro-Oeste,Cancelado
+95,59,Masculino,35,Cartão de Crédito,Básico,Sudeste,Cancelado
+96,22,Outros,54,Boleto,Básico,Sudeste,Ativo
+97,56,Feminino,48,Débito,Básico,Sul,Ativo
+98,58,Feminino,57,Boleto,Premium,Sudeste,Cancelado
+99,28,Feminino,34,Débito,Padrão,Norte,Ativo
+100,52,Feminino,3,Cartão de Crédito,Básico,Norte,Cancelado
+101,64,Outros,43,Cartão de Crédito,Básico,Sudeste,Ativo
+102,33,Feminino,22,Débito,Básico,Centro-Oeste,Ativo
+103,28,Feminino,57,Cartão de Crédito,Padrão,Sudeste,Cancelado
+104,47,Outros,50,Boleto,Padrão,Sudeste,Cancelado
+105,42,Outros,40,Boleto,Básico,Sudeste,Cancelado
+106,35,Masculino,9,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+107,58,Outros,39,Boleto,Básico,Centro-Oeste,Ativo
+108,62,Outros,25,Débito,Premium,Norte,Cancelado
+109,53,Masculino,10,Débito,Básico,Sul,Cancelado
+110,32,Masculino,11,Débito,Premium,Norte,Ativo
+111,61,Outros,12,Boleto,Padrão,Centro-Oeste,Ativo
+112,38,Masculino,54,Débito,Básico,Centro-Oeste,Cancelado
+113,67,Feminino,45,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+114,67,Outros,50,Débito,Básico,Centro-Oeste,Ativo
+115,21,Masculino,40,Boleto,Premium,Centro-Oeste,Ativo
+116,32,Masculino,52,Boleto,Padrão,Centro-Oeste,Ativo
+117,70,Masculino,58,Débito,Padrão,Nordeste,Ativo
+118,20,Masculino,11,Cartão de Crédito,Básico,Nordeste,Cancelado
+119,69,Outros,47,Cartão de Crédito,Padrão,Sudeste,Ativo
+120,38,Masculino,29,Cartão de Crédito,Premium,Nordeste,Ativo
+121,43,Masculino,3,Boleto,Premium,Norte,Ativo
+122,35,Masculino,27,Cartão de Crédito,Básico,Sudeste,Ativo
+123,22,Feminino,24,Boleto,Básico,Sul,Cancelado
+124,31,Feminino,44,Débito,Padrão,Centro-Oeste,Cancelado
+125,54,Outros,47,Débito,Premium,Nordeste,Cancelado
+126,63,Outros,16,Boleto,Padrão,Norte,Cancelado
+127,38,Feminino,29,Boleto,Premium,Sul,Cancelado
+128,31,Feminino,40,Débito,Premium,Centro-Oeste,Ativo
+129,59,Masculino,19,Débito,Básico,Centro-Oeste,Ativo
+130,49,Masculino,49,Boleto,Padrão,Sul,Ativo
+131,43,Feminino,48,Débito,Premium,Sul,Ativo
+132,59,Outros,51,Débito,Básico,Sul,Cancelado
+133,47,Feminino,29,Cartão de Crédito,Premium,Norte,Cancelado
+134,27,Outros,15,Cartão de Crédito,Básico,Sudeste,Cancelado
+135,34,Feminino,35,Débito,Básico,Sudeste,Cancelado
+136,26,Masculino,16,Débito,Básico,Nordeste,Ativo
+137,33,Outros,20,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+138,65,Masculino,52,Débito,Básico,Nordeste,Cancelado
+139,53,Feminino,51,Boleto,Básico,Sudeste,Cancelado
+140,52,Outros,31,Débito,Premium,Sul,Ativo
+141,34,Outros,58,Débito,Básico,Centro-Oeste,Cancelado
+142,65,Outros,54,Boleto,Premium,Sudeste,Ativo
+143,55,Masculino,13,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+144,45,Feminino,24,Débito,Padrão,Nordeste,Ativo
+145,55,Masculino,44,Cartão de Crédito,Básico,Sudeste,Ativo
+146,43,Outros,37,Cartão de Crédito,Básico,Nordeste,Cancelado
+147,41,Masculino,29,Débito,Premium,Centro-Oeste,Cancelado
+148,32,Outros,30,Débito,Padrão,Norte,Ativo
+149,26,Masculino,50,Cartão de Crédito,Básico,Sul,Cancelado
+150,50,Feminino,19,Débito,Padrão,Nordeste,Cancelado
+151,49,Masculino,50,Débito,Premium,Centro-Oeste,Cancelado
+152,23,Masculino,25,Cartão de Crédito,Básico,Sudeste,Cancelado
+153,66,Masculino,33,Cartão de Crédito,Padrão,Nordeste,Cancelado
+154,21,Masculino,34,Boleto,Básico,Centro-Oeste,Ativo
+155,25,Feminino,27,Débito,Básico,Norte,Cancelado
+156,27,Outros,11,Boleto,Padrão,Nordeste,Cancelado
+157,58,Outros,53,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+158,28,Outros,13,Débito,Premium,Nordeste,Ativo
+159,68,Feminino,52,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+160,61,Feminino,39,Débito,Básico,Sul,Ativo
+161,45,Masculino,9,Débito,Padrão,Centro-Oeste,Cancelado
+162,56,Feminino,56,Boleto,Padrão,Centro-Oeste,Ativo
+163,22,Outros,17,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+164,42,Feminino,4,Débito,Básico,Sudeste,Ativo
+165,42,Outros,42,Boleto,Padrão,Centro-Oeste,Ativo
+166,56,Feminino,31,Cartão de Crédito,Básico,Sul,Cancelado
+167,47,Feminino,56,Boleto,Premium,Norte,Cancelado
+168,51,Outros,24,Cartão de Crédito,Premium,Sul,Cancelado
+169,34,Outros,36,Débito,Básico,Norte,Ativo
+170,53,Feminino,60,Boleto,Básico,Sudeste,Cancelado
+171,18,Feminino,7,Boleto,Premium,Sudeste,Ativo
+172,61,Masculino,46,Débito,Premium,Sudeste,Cancelado
+173,64,Outros,55,Cartão de Crédito,Básico,Norte,Ativo
+174,25,Masculino,34,Débito,Premium,Sul,Cancelado
+175,61,Feminino,55,Boleto,Premium,Nordeste,Cancelado
+176,52,Outros,8,Débito,Básico,Sudeste,Ativo
+177,66,Feminino,19,Boleto,Padrão,Norte,Ativo
+178,35,Outros,6,Débito,Padrão,Sul,Cancelado
+179,67,Feminino,49,Cartão de Crédito,Premium,Sudeste,Cancelado
+180,59,Masculino,11,Boleto,Básico,Centro-Oeste,Cancelado
+181,39,Masculino,18,Boleto,Premium,Sul,Ativo
+182,25,Masculino,29,Cartão de Crédito,Premium,Norte,Cancelado
+183,36,Outros,58,Débito,Básico,Nordeste,Ativo
+184,45,Outros,33,Cartão de Crédito,Padrão,Nordeste,Ativo
+185,28,Outros,10,Débito,Premium,Nordeste,Cancelado
+186,47,Masculino,54,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+187,18,Outros,28,Cartão de Crédito,Padrão,Sul,Ativo
+188,64,Feminino,6,Boleto,Básico,Sudeste,Ativo
+189,64,Outros,59,Boleto,Básico,Sul,Cancelado
+190,34,Masculino,15,Débito,Básico,Nordeste,Ativo
+191,50,Masculino,53,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+192,66,Feminino,29,Débito,Básico,Nordeste,Ativo
+193,29,Outros,57,Cartão de Crédito,Premium,Norte,Ativo
+194,50,Outros,23,Cartão de Crédito,Premium,Sul,Cancelado
+195,24,Feminino,60,Boleto,Padrão,Centro-Oeste,Ativo
+196,58,Feminino,2,Cartão de Crédito,Padrão,Nordeste,Ativo
+197,37,Masculino,27,Boleto,Padrão,Centro-Oeste,Ativo
+198,58,Outros,4,Boleto,Padrão,Norte,Ativo
+199,50,Feminino,26,Cartão de Crédito,Básico,Norte,Cancelado
+200,56,Outros,33,Cartão de Crédito,Básico,Sul,Ativo
+201,30,Feminino,24,Débito,Padrão,Centro-Oeste,Ativo
+202,27,Masculino,16,Débito,Premium,Nordeste,Cancelado
+203,41,Feminino,25,Débito,Básico,Nordeste,Cancelado
+204,66,Feminino,6,Boleto,Básico,Sudeste,Cancelado
+205,28,Feminino,24,Boleto,Premium,Nordeste,Cancelado
+206,52,Feminino,15,Boleto,Premium,Sul,Cancelado
+207,67,Feminino,2,Boleto,Premium,Norte,Cancelado
+208,51,Outros,21,Boleto,Premium,Nordeste,Ativo
+209,18,Masculino,60,Boleto,Premium,Sudeste,Cancelado
+210,56,Masculino,7,Cartão de Crédito,Padrão,Sul,Cancelado
+211,38,Feminino,54,Débito,Premium,Sul,Ativo
+212,49,Feminino,46,Débito,Básico,Sul,Ativo
+213,19,Outros,42,Débito,Premium,Sul,Ativo
+214,25,Feminino,22,Cartão de Crédito,Padrão,Sul,Cancelado
+215,41,Feminino,51,Débito,Básico,Sul,Cancelado
+216,69,Outros,10,Boleto,Premium,Norte,Ativo
+217,37,Feminino,9,Cartão de Crédito,Premium,Norte,Cancelado
+218,33,Outros,3,Cartão de Crédito,Premium,Sudeste,Cancelado
+219,21,Masculino,19,Débito,Básico,Nordeste,Ativo
+220,33,Feminino,59,Boleto,Premium,Centro-Oeste,Cancelado
+221,54,Masculino,54,Débito,Padrão,Norte,Ativo
+222,23,Feminino,31,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+223,23,Feminino,45,Débito,Premium,Sudeste,Cancelado
+224,64,Feminino,54,Cartão de Crédito,Básico,Nordeste,Ativo
+225,49,Masculino,9,Cartão de Crédito,Básico,Norte,Ativo
+226,70,Feminino,49,Cartão de Crédito,Padrão,Norte,Ativo
+227,22,Outros,46,Boleto,Padrão,Nordeste,Cancelado
+228,66,Masculino,31,Boleto,Básico,Nordeste,Ativo
+229,52,Outros,29,Débito,Básico,Centro-Oeste,Cancelado
+230,67,Outros,40,Débito,Padrão,Centro-Oeste,Cancelado
+231,26,Feminino,1,Débito,Premium,Nordeste,Cancelado
+232,26,Feminino,58,Boleto,Premium,Norte,Ativo
+233,60,Masculino,6,Débito,Básico,Sul,Cancelado
+234,48,Masculino,2,Boleto,Premium,Sudeste,Ativo
+235,53,Outros,17,Cartão de Crédito,Básico,Sudeste,Cancelado
+236,28,Feminino,14,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+237,34,Outros,54,Boleto,Padrão,Nordeste,Cancelado
+238,51,Feminino,10,Boleto,Básico,Norte,Cancelado
+239,56,Outros,36,Cartão de Crédito,Padrão,Norte,Ativo
+240,45,Feminino,47,Boleto,Premium,Centro-Oeste,Cancelado
+241,31,Masculino,39,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+242,52,Masculino,34,Débito,Padrão,Sul,Ativo
+243,66,Feminino,28,Cartão de Crédito,Premium,Sudeste,Cancelado
+244,64,Outros,8,Cartão de Crédito,Premium,Sudeste,Cancelado
+245,62,Masculino,50,Débito,Básico,Sudeste,Cancelado
+246,30,Feminino,19,Boleto,Padrão,Centro-Oeste,Cancelado
+247,63,Feminino,16,Débito,Básico,Sul,Cancelado
+248,37,Outros,20,Cartão de Crédito,Básico,Nordeste,Cancelado
+249,43,Feminino,8,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+250,60,Masculino,4,Cartão de Crédito,Básico,Sul,Ativo
+251,59,Masculino,16,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+252,41,Outros,27,Cartão de Crédito,Padrão,Nordeste,Ativo
+253,46,Outros,41,Débito,Básico,Nordeste,Cancelado
+254,51,Masculino,51,Cartão de Crédito,Básico,Sul,Ativo
+255,46,Outros,40,Boleto,Básico,Norte,Cancelado
+256,25,Masculino,30,Débito,Padrão,Nordeste,Cancelado
+257,33,Feminino,5,Débito,Premium,Nordeste,Ativo
+258,32,Outros,8,Débito,Padrão,Nordeste,Ativo
+259,22,Masculino,54,Cartão de Crédito,Premium,Nordeste,Ativo
+260,39,Outros,58,Cartão de Crédito,Premium,Norte,Cancelado
+261,19,Feminino,32,Débito,Premium,Sudeste,Ativo
+262,55,Masculino,39,Cartão de Crédito,Padrão,Sudeste,Ativo
+263,53,Masculino,35,Boleto,Padrão,Nordeste,Cancelado
+264,32,Masculino,2,Boleto,Premium,Norte,Cancelado
+265,55,Feminino,41,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+266,32,Masculino,33,Débito,Básico,Norte,Cancelado
+267,18,Outros,37,Cartão de Crédito,Premium,Sul,Cancelado
+268,22,Masculino,16,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+269,63,Feminino,46,Cartão de Crédito,Premium,Sudeste,Cancelado
+270,58,Outros,10,Débito,Premium,Sudeste,Ativo
+271,21,Feminino,19,Boleto,Básico,Norte,Cancelado
+272,32,Outros,28,Cartão de Crédito,Padrão,Sudeste,Ativo
+273,22,Outros,1,Débito,Básico,Norte,Ativo
+274,20,Feminino,40,Débito,Padrão,Norte,Ativo
+275,39,Feminino,23,Boleto,Básico,Norte,Ativo
+276,22,Feminino,16,Débito,Premium,Norte,Cancelado
+277,50,Feminino,37,Débito,Básico,Norte,Cancelado
+278,33,Masculino,27,Débito,Básico,Sul,Ativo
+279,35,Feminino,12,Boleto,Premium,Sul,Cancelado
+280,60,Outros,43,Cartão de Crédito,Padrão,Sul,Cancelado
+281,49,Masculino,43,Boleto,Padrão,Norte,Cancelado
+282,31,Feminino,6,Cartão de Crédito,Premium,Sudeste,Cancelado
+283,52,Masculino,34,Débito,Premium,Centro-Oeste,Cancelado
+284,26,Outros,24,Débito,Premium,Sul,Cancelado
+285,64,Outros,5,Cartão de Crédito,Premium,Nordeste,Cancelado
+286,54,Outros,34,Boleto,Premium,Nordeste,Ativo
+287,54,Masculino,35,Boleto,Básico,Norte,Cancelado
+288,48,Masculino,33,Boleto,Padrão,Centro-Oeste,Ativo
+289,33,Feminino,51,Cartão de Crédito,Premium,Sul,Cancelado
+290,68,Feminino,33,Débito,Padrão,Norte,Ativo
+291,48,Feminino,36,Débito,Premium,Sudeste,Ativo
+292,69,Outros,2,Débito,Básico,Centro-Oeste,Cancelado
+293,44,Feminino,25,Cartão de Crédito,Básico,Sudeste,Cancelado
+294,30,Masculino,56,Débito,Básico,Sudeste,Cancelado
+295,24,Feminino,31,Débito,Básico,Nordeste,Cancelado
+296,24,Outros,3,Boleto,Padrão,Sul,Cancelado
+297,60,Feminino,41,Débito,Básico,Norte,Ativo
+298,45,Outros,25,Boleto,Padrão,Sudeste,Cancelado
+299,40,Outros,24,Cartão de Crédito,Premium,Sudeste,Cancelado
+300,45,Outros,17,Boleto,Premium,Norte,Cancelado
+301,44,Feminino,48,Débito,Básico,Centro-Oeste,Ativo
+302,47,Masculino,2,Débito,Padrão,Norte,Ativo
+303,64,Feminino,23,Boleto,Premium,Norte,Cancelado
+304,21,Outros,51,Débito,Premium,Sul,Cancelado
+305,61,Feminino,5,Boleto,Premium,Nordeste,Cancelado
+306,59,Feminino,23,Débito,Premium,Sudeste,Ativo
+307,59,Feminino,16,Boleto,Básico,Nordeste,Ativo
+308,24,Outros,47,Boleto,Básico,Centro-Oeste,Ativo
+309,21,Outros,43,Cartão de Crédito,Básico,Sudeste,Cancelado
+310,43,Feminino,41,Boleto,Premium,Nordeste,Ativo
+311,64,Feminino,7,Boleto,Básico,Centro-Oeste,Cancelado
+312,39,Feminino,50,Cartão de Crédito,Premium,Sul,Cancelado
+313,69,Masculino,38,Débito,Básico,Centro-Oeste,Cancelado
+314,24,Outros,48,Boleto,Básico,Nordeste,Cancelado
+315,33,Masculino,49,Cartão de Crédito,Padrão,Norte,Cancelado
+316,30,Outros,22,Cartão de Crédito,Padrão,Sudeste,Cancelado
+317,30,Feminino,9,Boleto,Premium,Sul,Cancelado
+318,52,Masculino,3,Débito,Premium,Nordeste,Cancelado
+319,46,Feminino,23,Cartão de Crédito,Premium,Sul,Cancelado
+320,26,Masculino,35,Boleto,Padrão,Centro-Oeste,Cancelado
+321,45,Feminino,22,Cartão de Crédito,Básico,Nordeste,Ativo
+322,29,Outros,53,Débito,Padrão,Norte,Ativo
+323,35,Feminino,42,Boleto,Básico,Norte,Ativo
+324,47,Outros,12,Boleto,Premium,Norte,Ativo
+325,33,Feminino,54,Débito,Padrão,Norte,Ativo
+326,22,Feminino,50,Débito,Premium,Sudeste,Cancelado
+327,46,Outros,44,Cartão de Crédito,Básico,Sul,Ativo
+328,69,Outros,30,Boleto,Básico,Nordeste,Ativo
+329,53,Masculino,45,Cartão de Crédito,Padrão,Norte,Ativo
+330,24,Feminino,31,Boleto,Padrão,Sudeste,Cancelado
+331,21,Masculino,41,Cartão de Crédito,Padrão,Norte,Ativo
+332,59,Masculino,12,Boleto,Premium,Norte,Ativo
+333,52,Outros,52,Débito,Básico,Centro-Oeste,Ativo
+334,18,Outros,9,Cartão de Crédito,Padrão,Nordeste,Cancelado
+335,23,Feminino,5,Boleto,Premium,Sul,Ativo
+336,66,Masculino,46,Boleto,Premium,Centro-Oeste,Ativo
+337,33,Feminino,50,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+338,28,Masculino,30,Débito,Básico,Sul,Ativo
+339,44,Outros,3,Débito,Padrão,Norte,Ativo
+340,49,Feminino,19,Cartão de Crédito,Padrão,Norte,Cancelado
+341,48,Masculino,13,Cartão de Crédito,Premium,Nordeste,Ativo
+342,31,Outros,3,Boleto,Padrão,Norte,Ativo
+343,43,Masculino,51,Boleto,Básico,Centro-Oeste,Cancelado
+344,21,Feminino,13,Débito,Padrão,Centro-Oeste,Cancelado
+345,28,Outros,57,Débito,Premium,Centro-Oeste,Ativo
+346,42,Masculino,3,Débito,Básico,Sul,Ativo
+347,18,Masculino,21,Cartão de Crédito,Padrão,Norte,Cancelado
+348,42,Feminino,60,Cartão de Crédito,Básico,Norte,Cancelado
+349,34,Feminino,20,Cartão de Crédito,Padrão,Norte,Ativo
+350,68,Feminino,33,Débito,Básico,Norte,Ativo
+351,68,Outros,26,Débito,Premium,Nordeste,Ativo
+352,47,Outros,53,Débito,Premium,Nordeste,Ativo
+353,36,Feminino,35,Débito,Premium,Centro-Oeste,Ativo
+354,45,Outros,31,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+355,62,Masculino,17,Boleto,Básico,Sul,Cancelado
+356,64,Feminino,3,Cartão de Crédito,Premium,Sudeste,Cancelado
+357,68,Outros,49,Boleto,Premium,Centro-Oeste,Cancelado
+358,53,Outros,42,Boleto,Básico,Norte,Cancelado
+359,60,Feminino,13,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+360,63,Feminino,19,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+361,49,Outros,23,Cartão de Crédito,Básico,Nordeste,Ativo
+362,27,Outros,56,Débito,Básico,Norte,Cancelado
+363,30,Feminino,50,Cartão de Crédito,Padrão,Sul,Cancelado
+364,36,Outros,4,Débito,Padrão,Sul,Cancelado
+365,31,Masculino,56,Boleto,Padrão,Sul,Cancelado
+366,21,Outros,42,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+367,55,Masculino,22,Débito,Básico,Sul,Ativo
+368,65,Masculino,18,Débito,Básico,Sul,Ativo
+369,52,Outros,8,Débito,Premium,Sul,Cancelado
+370,21,Outros,52,Cartão de Crédito,Premium,Nordeste,Cancelado
+371,65,Feminino,24,Boleto,Premium,Norte,Cancelado
+372,38,Masculino,28,Cartão de Crédito,Premium,Nordeste,Cancelado
+373,21,Outros,57,Débito,Padrão,Norte,Cancelado
+374,21,Masculino,26,Boleto,Básico,Nordeste,Ativo
+375,55,Feminino,48,Boleto,Padrão,Norte,Cancelado
+376,48,Masculino,29,Boleto,Básico,Sul,Ativo
+377,50,Outros,58,Boleto,Padrão,Sudeste,Ativo
+378,51,Outros,25,Débito,Premium,Sul,Ativo
+379,28,Masculino,22,Débito,Padrão,Sudeste,Cancelado
+380,21,Feminino,12,Boleto,Padrão,Sul,Cancelado
+381,50,Masculino,32,Boleto,Básico,Nordeste,Cancelado
+382,23,Outros,45,Boleto,Premium,Sudeste,Ativo
+383,29,Feminino,32,Boleto,Padrão,Sul,Cancelado
+384,22,Masculino,24,Débito,Básico,Centro-Oeste,Cancelado
+385,56,Masculino,60,Boleto,Premium,Sudeste,Cancelado
+386,22,Feminino,52,Boleto,Premium,Norte,Ativo
+387,61,Masculino,34,Cartão de Crédito,Básico,Nordeste,Cancelado
+388,33,Feminino,18,Débito,Básico,Sul,Cancelado
+389,43,Feminino,52,Boleto,Básico,Sul,Ativo
+390,25,Feminino,6,Boleto,Premium,Norte,Ativo
+391,54,Feminino,47,Cartão de Crédito,Básico,Sul,Cancelado
+392,33,Masculino,28,Boleto,Padrão,Sul,Ativo
+393,55,Masculino,6,Boleto,Básico,Norte,Cancelado
+394,56,Outros,28,Boleto,Padrão,Norte,Cancelado
+395,20,Feminino,39,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+396,57,Outros,53,Débito,Padrão,Centro-Oeste,Ativo
+397,23,Outros,12,Cartão de Crédito,Padrão,Norte,Ativo
+398,44,Masculino,35,Débito,Básico,Sudeste,Cancelado
+399,60,Masculino,19,Cartão de Crédito,Premium,Sudeste,Cancelado
+400,55,Masculino,21,Cartão de Crédito,Padrão,Sudeste,Ativo
+401,54,Masculino,7,Boleto,Básico,Nordeste,Cancelado
+402,51,Outros,6,Débito,Padrão,Centro-Oeste,Ativo
+403,38,Feminino,21,Débito,Básico,Sudeste,Cancelado
+404,34,Outros,43,Débito,Padrão,Sudeste,Ativo
+405,31,Outros,19,Débito,Premium,Sudeste,Cancelado
+406,60,Masculino,20,Boleto,Padrão,Norte,Cancelado
+407,63,Feminino,29,Boleto,Premium,Sul,Cancelado
+408,38,Outros,39,Cartão de Crédito,Premium,Nordeste,Cancelado
+409,33,Masculino,46,Cartão de Crédito,Básico,Sul,Ativo
+410,34,Masculino,28,Boleto,Padrão,Centro-Oeste,Ativo
+411,43,Feminino,11,Cartão de Crédito,Padrão,Sul,Ativo
+412,26,Outros,45,Boleto,Premium,Nordeste,Ativo
+413,60,Feminino,29,Débito,Padrão,Sudeste,Cancelado
+414,59,Feminino,23,Cartão de Crédito,Básico,Sudeste,Ativo
+415,37,Feminino,29,Boleto,Premium,Norte,Cancelado
+416,47,Outros,3,Débito,Premium,Norte,Cancelado
+417,38,Masculino,47,Débito,Básico,Nordeste,Cancelado
+418,66,Feminino,56,Débito,Básico,Sudeste,Cancelado
+419,22,Feminino,59,Boleto,Básico,Sul,Ativo
+420,18,Outros,23,Boleto,Padrão,Sul,Cancelado
+421,47,Outros,40,Boleto,Básico,Nordeste,Ativo
+422,57,Masculino,28,Débito,Básico,Norte,Ativo
+423,54,Masculino,18,Débito,Premium,Sul,Ativo
+424,24,Feminino,41,Débito,Padrão,Centro-Oeste,Ativo
+425,22,Feminino,51,Boleto,Premium,Nordeste,Ativo
+426,52,Outros,4,Boleto,Premium,Centro-Oeste,Ativo
+427,31,Feminino,5,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+428,50,Outros,43,Débito,Padrão,Norte,Cancelado
+429,34,Feminino,41,Boleto,Básico,Sudeste,Ativo
+430,26,Outros,26,Cartão de Crédito,Premium,Nordeste,Cancelado
+431,40,Feminino,24,Cartão de Crédito,Padrão,Sudeste,Ativo
+432,22,Feminino,33,Débito,Premium,Sul,Ativo
+433,33,Feminino,52,Débito,Premium,Sul,Ativo
+434,41,Masculino,48,Boleto,Padrão,Nordeste,Ativo
+435,36,Feminino,44,Cartão de Crédito,Básico,Norte,Ativo
+436,28,Feminino,11,Débito,Básico,Sul,Cancelado
+437,46,Masculino,2,Débito,Premium,Sul,Ativo
+438,52,Masculino,10,Cartão de Crédito,Básico,Sudeste,Cancelado
+439,63,Feminino,55,Débito,Padrão,Sul,Cancelado
+440,37,Outros,39,Cartão de Crédito,Padrão,Norte,Cancelado
+441,57,Feminino,44,Cartão de Crédito,Básico,Sul,Cancelado
+442,69,Outros,51,Débito,Básico,Sul,Cancelado
+443,59,Feminino,29,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+444,51,Outros,3,Cartão de Crédito,Padrão,Norte,Ativo
+445,18,Feminino,9,Boleto,Básico,Sul,Cancelado
+446,60,Masculino,5,Cartão de Crédito,Básico,Norte,Ativo
+447,70,Outros,16,Débito,Básico,Norte,Ativo
+448,53,Feminino,50,Cartão de Crédito,Premium,Sul,Ativo
+449,37,Feminino,42,Cartão de Crédito,Padrão,Sul,Cancelado
+450,60,Masculino,24,Débito,Premium,Norte,Cancelado
+451,24,Outros,24,Cartão de Crédito,Padrão,Sudeste,Ativo
+452,26,Outros,25,Cartão de Crédito,Padrão,Sudeste,Cancelado
+453,34,Outros,37,Cartão de Crédito,Premium,Norte,Ativo
+454,25,Masculino,3,Débito,Básico,Norte,Ativo
+455,24,Outros,39,Boleto,Premium,Sudeste,Cancelado
+456,65,Outros,10,Boleto,Básico,Sudeste,Cancelado
+457,53,Feminino,44,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+458,27,Feminino,29,Débito,Básico,Sudeste,Ativo
+459,35,Masculino,24,Débito,Premium,Sudeste,Ativo
+460,36,Outros,24,Débito,Padrão,Nordeste,Cancelado
+461,56,Feminino,29,Débito,Básico,Sul,Cancelado
+462,31,Masculino,49,Boleto,Premium,Centro-Oeste,Ativo
+463,63,Outros,5,Débito,Premium,Centro-Oeste,Ativo
+464,39,Masculino,37,Boleto,Básico,Norte,Ativo
+465,31,Outros,9,Cartão de Crédito,Padrão,Nordeste,Cancelado
+466,61,Feminino,34,Cartão de Crédito,Premium,Sul,Ativo
+467,58,Outros,24,Débito,Básico,Centro-Oeste,Ativo
+468,34,Outros,26,Débito,Básico,Sudeste,Cancelado
+469,50,Outros,21,Boleto,Padrão,Sudeste,Cancelado
+470,49,Outros,42,Cartão de Crédito,Padrão,Sudeste,Cancelado
+471,34,Masculino,18,Cartão de Crédito,Padrão,Sul,Cancelado
+472,21,Outros,16,Débito,Padrão,Centro-Oeste,Ativo
+473,23,Masculino,8,Débito,Premium,Sul,Ativo
+474,58,Outros,2,Boleto,Premium,Norte,Ativo
+475,45,Outros,48,Débito,Padrão,Norte,Cancelado
+476,35,Masculino,12,Boleto,Padrão,Nordeste,Cancelado
+477,20,Feminino,32,Cartão de Crédito,Padrão,Norte,Cancelado
+478,18,Feminino,34,Débito,Padrão,Centro-Oeste,Ativo
+479,39,Masculino,25,Débito,Básico,Centro-Oeste,Cancelado
+480,67,Outros,59,Débito,Básico,Centro-Oeste,Ativo
+481,26,Feminino,36,Boleto,Básico,Sudeste,Ativo
+482,58,Outros,8,Cartão de Crédito,Básico,Sudeste,Ativo
+483,34,Masculino,17,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+484,28,Masculino,50,Cartão de Crédito,Básico,Norte,Cancelado
+485,65,Feminino,17,Débito,Básico,Norte,Cancelado
+486,46,Feminino,46,Cartão de Crédito,Básico,Nordeste,Ativo
+487,53,Outros,29,Cartão de Crédito,Básico,Sul,Ativo
+488,63,Feminino,14,Cartão de Crédito,Padrão,Nordeste,Cancelado
+489,45,Masculino,40,Débito,Padrão,Sul,Ativo
+490,53,Masculino,19,Débito,Padrão,Norte,Cancelado
+491,18,Masculino,45,Boleto,Padrão,Centro-Oeste,Ativo
+492,25,Outros,59,Boleto,Básico,Sudeste,Ativo
+493,22,Feminino,32,Boleto,Premium,Nordeste,Ativo
+494,62,Outros,13,Boleto,Padrão,Nordeste,Cancelado
+495,27,Outros,8,Cartão de Crédito,Básico,Norte,Ativo
+496,52,Feminino,9,Boleto,Padrão,Sul,Cancelado
+497,20,Masculino,55,Boleto,Padrão,Nordeste,Ativo
+498,41,Feminino,5,Boleto,Padrão,Sul,Ativo
+499,55,Feminino,29,Débito,Padrão,Nordeste,Ativo
+500,53,Feminino,12,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+501,27,Outros,58,Débito,Básico,Norte,Ativo
+502,45,Feminino,46,Cartão de Crédito,Básico,Sul,Cancelado
+503,26,Masculino,29,Boleto,Premium,Norte,Ativo
+504,20,Feminino,6,Débito,Padrão,Sudeste,Ativo
+505,37,Masculino,52,Cartão de Crédito,Premium,Norte,Cancelado
+506,41,Masculino,44,Débito,Premium,Sul,Ativo
+507,68,Masculino,55,Débito,Premium,Sul,Ativo
+508,20,Outros,21,Cartão de Crédito,Básico,Sudeste,Ativo
+509,40,Outros,43,Cartão de Crédito,Básico,Sudeste,Cancelado
+510,31,Outros,23,Boleto,Padrão,Nordeste,Ativo
+511,61,Feminino,46,Boleto,Básico,Sul,Cancelado
+512,33,Outros,5,Boleto,Básico,Norte,Cancelado
+513,60,Feminino,36,Débito,Premium,Sudeste,Cancelado
+514,24,Masculino,35,Boleto,Básico,Norte,Ativo
+515,40,Feminino,19,Cartão de Crédito,Padrão,Sudeste,Ativo
+516,67,Masculino,58,Débito,Padrão,Sul,Cancelado
+517,53,Feminino,20,Cartão de Crédito,Premium,Sudeste,Cancelado
+518,44,Outros,55,Débito,Básico,Sul,Ativo
+519,57,Masculino,11,Cartão de Crédito,Premium,Sudeste,Cancelado
+520,65,Feminino,46,Cartão de Crédito,Padrão,Nordeste,Ativo
+521,27,Feminino,46,Boleto,Padrão,Sudeste,Cancelado
+522,33,Outros,60,Boleto,Básico,Nordeste,Cancelado
+523,28,Outros,45,Débito,Básico,Nordeste,Cancelado
+524,69,Outros,41,Boleto,Padrão,Norte,Cancelado
+525,69,Feminino,12,Débito,Padrão,Sul,Ativo
+526,29,Outros,51,Cartão de Crédito,Premium,Sudeste,Ativo
+527,44,Feminino,24,Débito,Premium,Sudeste,Cancelado
+528,19,Outros,33,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+529,29,Feminino,15,Cartão de Crédito,Básico,Sudeste,Cancelado
+530,65,Masculino,8,Cartão de Crédito,Básico,Sul,Cancelado
+531,39,Outros,13,Débito,Padrão,Sul,Ativo
+532,68,Masculino,51,Débito,Básico,Sudeste,Ativo
+533,44,Feminino,9,Boleto,Básico,Nordeste,Ativo
+534,69,Masculino,16,Boleto,Básico,Centro-Oeste,Cancelado
+535,60,Outros,51,Cartão de Crédito,Básico,Sul,Cancelado
+536,65,Outros,32,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+537,69,Feminino,2,Débito,Básico,Centro-Oeste,Cancelado
+538,33,Outros,24,Boleto,Básico,Sul,Cancelado
+539,35,Masculino,36,Débito,Básico,Nordeste,Ativo
+540,28,Outros,37,Débito,Padrão,Nordeste,Cancelado
+541,68,Masculino,24,Débito,Padrão,Sul,Ativo
+542,62,Outros,30,Cartão de Crédito,Premium,Sudeste,Ativo
+543,24,Feminino,52,Cartão de Crédito,Premium,Sudeste,Cancelado
+544,42,Outros,36,Boleto,Premium,Centro-Oeste,Ativo
+545,20,Feminino,9,Cartão de Crédito,Básico,Sudeste,Cancelado
+546,48,Outros,40,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+547,32,Feminino,57,Débito,Premium,Sudeste,Cancelado
+548,30,Masculino,6,Cartão de Crédito,Padrão,Nordeste,Ativo
+549,70,Masculino,5,Débito,Básico,Nordeste,Cancelado
+550,47,Masculino,20,Boleto,Básico,Nordeste,Ativo
+551,40,Masculino,26,Cartão de Crédito,Básico,Sudeste,Cancelado
+552,37,Feminino,46,Boleto,Básico,Centro-Oeste,Cancelado
+553,70,Feminino,47,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+554,68,Masculino,31,Débito,Padrão,Nordeste,Cancelado
+555,32,Masculino,34,Cartão de Crédito,Básico,Nordeste,Ativo
+556,32,Masculino,27,Débito,Básico,Sudeste,Ativo
+557,19,Outros,50,Boleto,Padrão,Sudeste,Ativo
+558,60,Masculino,27,Débito,Básico,Centro-Oeste,Ativo
+559,30,Feminino,53,Débito,Básico,Norte,Ativo
+560,43,Feminino,37,Boleto,Padrão,Centro-Oeste,Ativo
+561,39,Feminino,5,Boleto,Básico,Sudeste,Ativo
+562,35,Outros,9,Débito,Básico,Sul,Ativo
+563,22,Outros,21,Cartão de Crédito,Premium,Sudeste,Ativo
+564,67,Outros,42,Débito,Padrão,Sudeste,Cancelado
+565,35,Outros,5,Débito,Premium,Sul,Ativo
+566,40,Feminino,29,Cartão de Crédito,Padrão,Sudeste,Ativo
+567,59,Outros,30,Débito,Padrão,Centro-Oeste,Ativo
+568,50,Outros,44,Débito,Básico,Sul,Cancelado
+569,43,Outros,34,Boleto,Padrão,Norte,Cancelado
+570,61,Masculino,23,Cartão de Crédito,Premium,Sudeste,Cancelado
+571,52,Feminino,9,Cartão de Crédito,Padrão,Norte,Ativo
+572,39,Outros,57,Boleto,Básico,Norte,Cancelado
+573,19,Masculino,54,Cartão de Crédito,Padrão,Sul,Ativo
+574,25,Feminino,50,Cartão de Crédito,Básico,Nordeste,Ativo
+575,34,Outros,36,Boleto,Básico,Norte,Ativo
+576,29,Feminino,41,Débito,Padrão,Norte,Ativo
+577,55,Feminino,38,Débito,Padrão,Nordeste,Cancelado
+578,34,Masculino,12,Débito,Padrão,Centro-Oeste,Ativo
+579,20,Outros,50,Boleto,Básico,Nordeste,Cancelado
+580,24,Feminino,9,Boleto,Básico,Centro-Oeste,Ativo
+581,56,Masculino,28,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+582,45,Feminino,33,Débito,Premium,Nordeste,Cancelado
+583,40,Feminino,59,Boleto,Premium,Norte,Cancelado
+584,64,Masculino,56,Boleto,Básico,Centro-Oeste,Ativo
+585,68,Feminino,4,Boleto,Premium,Nordeste,Cancelado
+586,38,Masculino,54,Cartão de Crédito,Padrão,Sudeste,Ativo
+587,45,Outros,8,Boleto,Padrão,Norte,Ativo
+588,56,Feminino,34,Débito,Padrão,Centro-Oeste,Cancelado
+589,50,Outros,10,Boleto,Premium,Sul,Ativo
+590,25,Outros,20,Boleto,Padrão,Norte,Ativo
+591,42,Feminino,11,Cartão de Crédito,Básico,Sudeste,Ativo
+592,54,Masculino,11,Débito,Básico,Sudeste,Ativo
+593,30,Feminino,21,Débito,Padrão,Nordeste,Ativo
+594,34,Feminino,60,Débito,Padrão,Sudeste,Cancelado
+595,20,Masculino,46,Boleto,Básico,Sul,Ativo
+596,63,Masculino,15,Cartão de Crédito,Padrão,Nordeste,Ativo
+597,45,Feminino,23,Débito,Básico,Sudeste,Ativo
+598,18,Masculino,34,Boleto,Premium,Centro-Oeste,Ativo
+599,51,Outros,58,Cartão de Crédito,Premium,Norte,Cancelado
+600,69,Masculino,19,Débito,Básico,Sul,Ativo
+601,52,Outros,55,Cartão de Crédito,Premium,Sul,Cancelado
+602,61,Outros,6,Cartão de Crédito,Premium,Sul,Cancelado
+603,64,Outros,17,Boleto,Básico,Centro-Oeste,Cancelado
+604,65,Masculino,13,Cartão de Crédito,Padrão,Sudeste,Ativo
+605,65,Masculino,41,Boleto,Premium,Norte,Ativo
+606,60,Feminino,36,Débito,Padrão,Norte,Ativo
+607,30,Masculino,18,Débito,Padrão,Centro-Oeste,Cancelado
+608,41,Masculino,9,Cartão de Crédito,Premium,Nordeste,Cancelado
+609,45,Outros,41,Débito,Padrão,Sudeste,Ativo
+610,22,Masculino,20,Boleto,Padrão,Sul,Cancelado
+611,60,Masculino,40,Boleto,Premium,Nordeste,Cancelado
+612,39,Outros,35,Boleto,Premium,Centro-Oeste,Cancelado
+613,57,Masculino,6,Cartão de Crédito,Padrão,Sudeste,Cancelado
+614,38,Outros,33,Cartão de Crédito,Padrão,Sudeste,Cancelado
+615,60,Masculino,42,Cartão de Crédito,Padrão,Sudeste,Cancelado
+616,25,Masculino,11,Boleto,Básico,Nordeste,Cancelado
+617,64,Feminino,38,Boleto,Básico,Nordeste,Cancelado
+618,37,Masculino,38,Boleto,Padrão,Centro-Oeste,Ativo
+619,50,Outros,10,Boleto,Premium,Sul,Ativo
+620,37,Masculino,11,Cartão de Crédito,Básico,Nordeste,Cancelado
+621,60,Feminino,43,Cartão de Crédito,Básico,Norte,Cancelado
+622,44,Masculino,40,Cartão de Crédito,Padrão,Nordeste,Cancelado
+623,38,Masculino,47,Cartão de Crédito,Básico,Nordeste,Cancelado
+624,43,Outros,58,Boleto,Padrão,Sudeste,Cancelado
+625,62,Feminino,39,Boleto,Premium,Norte,Cancelado
+626,36,Masculino,22,Débito,Padrão,Sul,Ativo
+627,53,Masculino,54,Débito,Premium,Norte,Ativo
+628,26,Outros,60,Débito,Básico,Sul,Cancelado
+629,30,Masculino,37,Boleto,Básico,Centro-Oeste,Ativo
+630,44,Masculino,3,Cartão de Crédito,Básico,Sudeste,Ativo
+631,60,Masculino,53,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+632,42,Feminino,56,Cartão de Crédito,Premium,Nordeste,Ativo
+633,61,Masculino,2,Boleto,Básico,Nordeste,Cancelado
+634,65,Outros,6,Débito,Padrão,Sudeste,Ativo
+635,29,Feminino,3,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+636,57,Masculino,42,Débito,Premium,Norte,Cancelado
+637,54,Masculino,50,Débito,Básico,Centro-Oeste,Ativo
+638,37,Feminino,37,Boleto,Básico,Sul,Cancelado
+639,43,Masculino,17,Boleto,Premium,Nordeste,Ativo
+640,53,Masculino,42,Cartão de Crédito,Padrão,Norte,Ativo
+641,18,Outros,14,Boleto,Padrão,Nordeste,Ativo
+642,37,Feminino,50,Boleto,Básico,Centro-Oeste,Cancelado
+643,36,Outros,37,Boleto,Básico,Sudeste,Cancelado
+644,31,Masculino,27,Cartão de Crédito,Básico,Norte,Ativo
+645,45,Outros,40,Débito,Premium,Sudeste,Ativo
+646,68,Masculino,41,Débito,Padrão,Centro-Oeste,Cancelado
+647,55,Feminino,2,Cartão de Crédito,Premium,Sul,Cancelado
+648,56,Feminino,32,Débito,Premium,Sudeste,Ativo
+649,59,Feminino,57,Débito,Padrão,Sudeste,Ativo
+650,38,Outros,41,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+651,47,Outros,35,Débito,Básico,Norte,Cancelado
+652,46,Masculino,19,Boleto,Premium,Centro-Oeste,Ativo
+653,46,Feminino,42,Cartão de Crédito,Premium,Sudeste,Cancelado
+654,61,Outros,20,Cartão de Crédito,Padrão,Nordeste,Ativo
+655,31,Masculino,31,Boleto,Premium,Nordeste,Ativo
+656,50,Outros,16,Boleto,Premium,Sudeste,Cancelado
+657,48,Masculino,52,Boleto,Básico,Norte,Cancelado
+658,68,Outros,52,Boleto,Premium,Sudeste,Ativo
+659,68,Outros,44,Cartão de Crédito,Básico,Nordeste,Cancelado
+660,65,Outros,26,Cartão de Crédito,Padrão,Sul,Ativo
+661,28,Feminino,20,Cartão de Crédito,Premium,Sudeste,Cancelado
+662,60,Feminino,30,Boleto,Padrão,Sudeste,Ativo
+663,23,Outros,5,Boleto,Básico,Sul,Cancelado
+664,36,Masculino,45,Boleto,Padrão,Norte,Ativo
+665,50,Masculino,4,Boleto,Básico,Centro-Oeste,Ativo
+666,60,Feminino,11,Boleto,Básico,Nordeste,Cancelado
+667,58,Feminino,29,Cartão de Crédito,Básico,Nordeste,Cancelado
+668,57,Feminino,27,Boleto,Básico,Centro-Oeste,Cancelado
+669,39,Outros,31,Boleto,Premium,Centro-Oeste,Cancelado
+670,23,Masculino,30,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+671,70,Feminino,14,Débito,Básico,Centro-Oeste,Ativo
+672,66,Outros,22,Débito,Premium,Nordeste,Ativo
+673,33,Feminino,39,Boleto,Padrão,Sudeste,Cancelado
+674,61,Masculino,10,Débito,Básico,Sudeste,Ativo
+675,37,Masculino,21,Débito,Padrão,Sul,Cancelado
+676,32,Feminino,56,Cartão de Crédito,Premium,Sudeste,Ativo
+677,69,Outros,46,Boleto,Básico,Norte,Cancelado
+678,30,Masculino,21,Cartão de Crédito,Básico,Norte,Ativo
+679,27,Masculino,47,Cartão de Crédito,Padrão,Centro-Oeste,Cancelado
+680,19,Masculino,56,Boleto,Premium,Sul,Ativo
+681,20,Feminino,23,Cartão de Crédito,Básico,Nordeste,Ativo
+682,33,Outros,26,Boleto,Padrão,Sudeste,Ativo
+683,48,Outros,9,Boleto,Básico,Sudeste,Cancelado
+684,57,Outros,49,Débito,Básico,Nordeste,Cancelado
+685,67,Outros,24,Boleto,Básico,Norte,Ativo
+686,22,Outros,33,Boleto,Premium,Centro-Oeste,Ativo
+687,47,Feminino,36,Boleto,Premium,Sul,Cancelado
+688,44,Feminino,7,Boleto,Básico,Norte,Cancelado
+689,58,Outros,21,Boleto,Básico,Sul,Cancelado
+690,54,Outros,16,Débito,Premium,Centro-Oeste,Ativo
+691,30,Feminino,30,Débito,Padrão,Sudeste,Ativo
+692,63,Feminino,8,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+693,62,Outros,18,Boleto,Padrão,Norte,Ativo
+694,42,Outros,29,Boleto,Premium,Sudeste,Cancelado
+695,49,Feminino,16,Débito,Premium,Centro-Oeste,Ativo
+696,43,Masculino,10,Débito,Padrão,Sudeste,Cancelado
+697,33,Outros,7,Cartão de Crédito,Premium,Sudeste,Cancelado
+698,27,Masculino,4,Boleto,Básico,Sul,Ativo
+699,59,Outros,19,Boleto,Padrão,Sul,Cancelado
+700,62,Outros,25,Cartão de Crédito,Padrão,Norte,Cancelado
+701,18,Outros,56,Boleto,Padrão,Centro-Oeste,Ativo
+702,66,Outros,40,Boleto,Básico,Nordeste,Ativo
+703,67,Masculino,27,Boleto,Básico,Centro-Oeste,Cancelado
+704,24,Feminino,16,Débito,Premium,Sudeste,Ativo
+705,67,Feminino,56,Débito,Padrão,Norte,Cancelado
+706,45,Masculino,58,Débito,Premium,Norte,Cancelado
+707,32,Feminino,11,Boleto,Padrão,Nordeste,Ativo
+708,29,Feminino,53,Débito,Premium,Sudeste,Ativo
+709,69,Feminino,21,Cartão de Crédito,Padrão,Sudeste,Ativo
+710,62,Feminino,60,Boleto,Básico,Norte,Ativo
+711,51,Feminino,37,Boleto,Premium,Norte,Cancelado
+712,47,Outros,47,Boleto,Premium,Nordeste,Cancelado
+713,21,Masculino,21,Boleto,Premium,Nordeste,Cancelado
+714,53,Feminino,13,Boleto,Premium,Sul,Ativo
+715,33,Feminino,49,Cartão de Crédito,Padrão,Norte,Ativo
+716,25,Feminino,11,Débito,Básico,Nordeste,Cancelado
+717,47,Outros,32,Cartão de Crédito,Premium,Sudeste,Cancelado
+718,26,Feminino,33,Débito,Premium,Sul,Cancelado
+719,69,Feminino,30,Débito,Básico,Norte,Cancelado
+720,47,Masculino,32,Cartão de Crédito,Padrão,Nordeste,Ativo
+721,60,Outros,57,Débito,Padrão,Norte,Cancelado
+722,51,Feminino,20,Débito,Premium,Sul,Cancelado
+723,53,Masculino,32,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+724,56,Masculino,2,Débito,Padrão,Norte,Cancelado
+725,38,Masculino,6,Boleto,Básico,Norte,Ativo
+726,66,Masculino,26,Débito,Básico,Norte,Cancelado
+727,46,Feminino,33,Cartão de Crédito,Premium,Norte,Cancelado
+728,57,Masculino,30,Boleto,Básico,Nordeste,Ativo
+729,70,Outros,16,Boleto,Premium,Centro-Oeste,Cancelado
+730,64,Outros,14,Débito,Premium,Sudeste,Ativo
+731,50,Feminino,38,Cartão de Crédito,Padrão,Norte,Ativo
+732,45,Masculino,23,Boleto,Premium,Sudeste,Ativo
+733,53,Outros,4,Débito,Básico,Nordeste,Cancelado
+734,46,Masculino,4,Boleto,Básico,Centro-Oeste,Ativo
+735,28,Outros,19,Cartão de Crédito,Premium,Sul,Ativo
+736,65,Outros,32,Débito,Padrão,Sul,Ativo
+737,48,Outros,39,Boleto,Premium,Sul,Ativo
+738,46,Feminino,57,Cartão de Crédito,Básico,Sul,Ativo
+739,34,Outros,54,Boleto,Premium,Sul,Ativo
+740,66,Masculino,42,Débito,Premium,Centro-Oeste,Cancelado
+741,33,Feminino,44,Cartão de Crédito,Básico,Norte,Ativo
+742,58,Feminino,31,Débito,Padrão,Sul,Cancelado
+743,35,Outros,19,Boleto,Básico,Norte,Ativo
+744,67,Feminino,35,Boleto,Padrão,Sudeste,Cancelado
+745,67,Outros,1,Cartão de Crédito,Premium,Norte,Cancelado
+746,51,Masculino,55,Boleto,Básico,Sudeste,Cancelado
+747,49,Feminino,7,Débito,Básico,Norte,Ativo
+748,58,Outros,28,Boleto,Padrão,Sudeste,Cancelado
+749,33,Feminino,9,Débito,Padrão,Norte,Ativo
+750,35,Feminino,57,Boleto,Básico,Norte,Ativo
+751,46,Masculino,17,Débito,Premium,Centro-Oeste,Ativo
+752,22,Outros,47,Débito,Básico,Sudeste,Cancelado
+753,63,Outros,24,Débito,Premium,Norte,Cancelado
+754,36,Masculino,49,Boleto,Premium,Centro-Oeste,Ativo
+755,33,Masculino,26,Débito,Premium,Centro-Oeste,Ativo
+756,35,Outros,24,Cartão de Crédito,Premium,Sudeste,Cancelado
+757,39,Feminino,3,Boleto,Padrão,Norte,Ativo
+758,38,Masculino,26,Débito,Padrão,Centro-Oeste,Cancelado
+759,52,Masculino,4,Débito,Básico,Sul,Ativo
+760,23,Feminino,37,Débito,Padrão,Sul,Ativo
+761,26,Outros,36,Débito,Básico,Sul,Cancelado
+762,27,Feminino,13,Cartão de Crédito,Básico,Norte,Ativo
+763,32,Masculino,24,Cartão de Crédito,Premium,Sul,Cancelado
+764,42,Feminino,36,Cartão de Crédito,Básico,Nordeste,Ativo
+765,62,Outros,19,Débito,Padrão,Sudeste,Cancelado
+766,27,Masculino,5,Débito,Padrão,Nordeste,Ativo
+767,63,Feminino,25,Boleto,Básico,Nordeste,Ativo
+768,31,Outros,33,Cartão de Crédito,Premium,Sul,Cancelado
+769,22,Outros,29,Débito,Básico,Sudeste,Cancelado
+770,44,Outros,49,Débito,Básico,Centro-Oeste,Cancelado
+771,44,Outros,36,Cartão de Crédito,Padrão,Nordeste,Ativo
+772,39,Outros,18,Débito,Padrão,Centro-Oeste,Ativo
+773,52,Outros,53,Débito,Premium,Centro-Oeste,Cancelado
+774,47,Masculino,40,Débito,Padrão,Norte,Cancelado
+775,44,Outros,44,Débito,Básico,Sudeste,Ativo
+776,21,Outros,40,Boleto,Padrão,Sudeste,Cancelado
+777,31,Outros,8,Boleto,Padrão,Nordeste,Ativo
+778,44,Feminino,9,Boleto,Padrão,Norte,Cancelado
+779,42,Masculino,7,Cartão de Crédito,Padrão,Norte,Cancelado
+780,67,Masculino,26,Cartão de Crédito,Premium,Norte,Ativo
+781,55,Feminino,24,Cartão de Crédito,Padrão,Sudeste,Ativo
+782,62,Outros,51,Boleto,Básico,Sudeste,Ativo
+783,19,Feminino,22,Cartão de Crédito,Padrão,Sul,Cancelado
+784,66,Feminino,36,Débito,Premium,Sudeste,Ativo
+785,54,Feminino,24,Débito,Premium,Sudeste,Ativo
+786,42,Masculino,49,Débito,Premium,Norte,Ativo
+787,48,Masculino,10,Débito,Básico,Centro-Oeste,Cancelado
+788,18,Masculino,13,Débito,Básico,Nordeste,Cancelado
+789,40,Outros,39,Débito,Padrão,Centro-Oeste,Cancelado
+790,37,Outros,33,Débito,Básico,Nordeste,Cancelado
+791,66,Feminino,26,Cartão de Crédito,Básico,Sul,Ativo
+792,42,Masculino,33,Boleto,Padrão,Sudeste,Ativo
+793,44,Masculino,3,Boleto,Básico,Nordeste,Cancelado
+794,52,Outros,3,Boleto,Padrão,Nordeste,Cancelado
+795,65,Outros,3,Boleto,Padrão,Nordeste,Cancelado
+796,65,Masculino,9,Débito,Básico,Nordeste,Cancelado
+797,52,Masculino,46,Débito,Básico,Sudeste,Ativo
+798,69,Outros,22,Débito,Padrão,Centro-Oeste,Cancelado
+799,56,Outros,52,Débito,Básico,Nordeste,Ativo
+800,32,Masculino,31,Cartão de Crédito,Padrão,Norte,Cancelado
+801,49,Feminino,34,Boleto,Básico,Nordeste,Cancelado
+802,32,Feminino,30,Cartão de Crédito,Premium,Sudeste,Ativo
+803,35,Feminino,10,Boleto,Básico,Norte,Cancelado
+804,45,Feminino,39,Cartão de Crédito,Premium,Sudeste,Ativo
+805,49,Masculino,58,Boleto,Básico,Sul,Ativo
+806,19,Feminino,33,Boleto,Padrão,Sudeste,Cancelado
+807,42,Feminino,9,Cartão de Crédito,Premium,Norte,Cancelado
+808,39,Outros,21,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+809,60,Feminino,60,Débito,Padrão,Norte,Ativo
+810,61,Outros,40,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+811,69,Outros,21,Boleto,Básico,Norte,Ativo
+812,43,Masculino,11,Boleto,Padrão,Nordeste,Cancelado
+813,64,Masculino,26,Boleto,Premium,Sudeste,Ativo
+814,28,Masculino,40,Boleto,Básico,Sul,Ativo
+815,47,Masculino,48,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+816,26,Outros,54,Débito,Padrão,Centro-Oeste,Cancelado
+817,57,Masculino,20,Boleto,Básico,Nordeste,Cancelado
+818,52,Outros,38,Boleto,Básico,Nordeste,Cancelado
+819,19,Masculino,22,Boleto,Básico,Norte,Ativo
+820,43,Feminino,33,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+821,55,Feminino,54,Boleto,Básico,Sudeste,Ativo
+822,54,Outros,33,Débito,Básico,Norte,Ativo
+823,60,Feminino,35,Débito,Padrão,Nordeste,Ativo
+824,19,Feminino,32,Boleto,Premium,Centro-Oeste,Cancelado
+825,23,Outros,46,Boleto,Premium,Sul,Ativo
+826,59,Feminino,37,Cartão de Crédito,Premium,Sul,Cancelado
+827,45,Feminino,20,Boleto,Premium,Centro-Oeste,Ativo
+828,26,Feminino,31,Cartão de Crédito,Premium,Sudeste,Ativo
+829,47,Masculino,53,Débito,Padrão,Centro-Oeste,Cancelado
+830,29,Outros,2,Cartão de Crédito,Premium,Sudeste,Ativo
+831,21,Masculino,24,Cartão de Crédito,Padrão,Nordeste,Ativo
+832,34,Feminino,22,Boleto,Padrão,Sudeste,Ativo
+833,42,Feminino,44,Débito,Básico,Sudeste,Cancelado
+834,38,Masculino,8,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+835,31,Feminino,27,Débito,Básico,Centro-Oeste,Ativo
+836,47,Outros,38,Cartão de Crédito,Padrão,Sul,Cancelado
+837,38,Outros,20,Débito,Premium,Nordeste,Cancelado
+838,39,Outros,51,Cartão de Crédito,Premium,Norte,Cancelado
+839,66,Feminino,58,Débito,Padrão,Centro-Oeste,Cancelado
+840,42,Outros,47,Cartão de Crédito,Básico,Nordeste,Cancelado
+841,35,Outros,56,Débito,Básico,Nordeste,Cancelado
+842,66,Feminino,45,Cartão de Crédito,Padrão,Sul,Ativo
+843,44,Masculino,41,Boleto,Básico,Centro-Oeste,Ativo
+844,34,Masculino,2,Débito,Padrão,Centro-Oeste,Ativo
+845,23,Feminino,39,Boleto,Básico,Nordeste,Ativo
+846,48,Outros,31,Boleto,Padrão,Centro-Oeste,Ativo
+847,19,Masculino,17,Cartão de Crédito,Premium,Sul,Ativo
+848,65,Masculino,42,Boleto,Premium,Sul,Cancelado
+849,52,Masculino,51,Débito,Premium,Sul,Ativo
+850,21,Feminino,50,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+851,40,Masculino,38,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+852,32,Masculino,37,Débito,Básico,Sul,Ativo
+853,59,Feminino,15,Débito,Básico,Sudeste,Cancelado
+854,22,Feminino,47,Boleto,Básico,Norte,Ativo
+855,67,Feminino,4,Boleto,Básico,Nordeste,Cancelado
+856,59,Masculino,38,Cartão de Crédito,Premium,Sudeste,Ativo
+857,20,Masculino,31,Débito,Padrão,Norte,Cancelado
+858,66,Feminino,11,Débito,Básico,Centro-Oeste,Cancelado
+859,19,Outros,34,Cartão de Crédito,Padrão,Nordeste,Ativo
+860,33,Feminino,41,Boleto,Básico,Sudeste,Cancelado
+861,30,Masculino,47,Débito,Padrão,Nordeste,Cancelado
+862,19,Masculino,40,Boleto,Padrão,Centro-Oeste,Cancelado
+863,57,Feminino,50,Boleto,Padrão,Norte,Ativo
+864,27,Outros,54,Cartão de Crédito,Padrão,Norte,Ativo
+865,33,Outros,25,Débito,Premium,Norte,Ativo
+866,26,Masculino,10,Cartão de Crédito,Padrão,Sudeste,Ativo
+867,48,Outros,53,Cartão de Crédito,Básico,Norte,Ativo
+868,60,Outros,44,Boleto,Premium,Sudeste,Cancelado
+869,25,Outros,16,Débito,Premium,Sudeste,Ativo
+870,54,Feminino,3,Cartão de Crédito,Padrão,Sul,Cancelado
+871,31,Masculino,37,Débito,Básico,Sudeste,Cancelado
+872,47,Feminino,45,Cartão de Crédito,Padrão,Nordeste,Ativo
+873,62,Outros,8,Débito,Padrão,Norte,Ativo
+874,34,Masculino,13,Cartão de Crédito,Padrão,Sudeste,Ativo
+875,67,Feminino,2,Boleto,Básico,Centro-Oeste,Ativo
+876,41,Masculino,29,Boleto,Padrão,Sudeste,Ativo
+877,28,Feminino,21,Cartão de Crédito,Básico,Sudeste,Cancelado
+878,56,Masculino,27,Boleto,Padrão,Sul,Cancelado
+879,56,Feminino,10,Cartão de Crédito,Padrão,Nordeste,Cancelado
+880,65,Outros,27,Boleto,Padrão,Centro-Oeste,Cancelado
+881,63,Feminino,45,Débito,Padrão,Sul,Ativo
+882,25,Outros,14,Boleto,Básico,Nordeste,Cancelado
+883,67,Feminino,27,Débito,Padrão,Sudeste,Cancelado
+884,70,Outros,33,Débito,Premium,Centro-Oeste,Ativo
+885,28,Outros,50,Boleto,Básico,Nordeste,Cancelado
+886,37,Feminino,40,Débito,Básico,Sul,Cancelado
+887,24,Feminino,59,Boleto,Premium,Sudeste,Cancelado
+888,55,Masculino,31,Débito,Premium,Sudeste,Ativo
+889,19,Feminino,56,Boleto,Básico,Norte,Ativo
+890,37,Masculino,55,Débito,Básico,Sul,Cancelado
+891,54,Feminino,48,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+892,61,Masculino,47,Boleto,Padrão,Sudeste,Ativo
+893,42,Outros,4,Boleto,Premium,Norte,Ativo
+894,43,Feminino,46,Boleto,Padrão,Nordeste,Cancelado
+895,63,Outros,9,Débito,Premium,Sudeste,Ativo
+896,30,Feminino,34,Cartão de Crédito,Básico,Nordeste,Cancelado
+897,22,Masculino,14,Débito,Premium,Sudeste,Ativo
+898,55,Feminino,36,Débito,Básico,Nordeste,Ativo
+899,62,Masculino,21,Boleto,Padrão,Sul,Cancelado
+900,58,Masculino,43,Débito,Premium,Nordeste,Cancelado
+901,33,Feminino,31,Débito,Padrão,Nordeste,Cancelado
+902,24,Outros,34,Cartão de Crédito,Premium,Sudeste,Cancelado
+903,62,Feminino,25,Débito,Premium,Sudeste,Cancelado
+904,67,Outros,21,Cartão de Crédito,Padrão,Nordeste,Cancelado
+905,37,Masculino,12,Boleto,Premium,Sul,Ativo
+906,61,Feminino,30,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+907,56,Feminino,59,Cartão de Crédito,Padrão,Norte,Cancelado
+908,69,Outros,35,Boleto,Padrão,Nordeste,Ativo
+909,25,Feminino,22,Cartão de Crédito,Básico,Sul,Ativo
+910,68,Masculino,35,Cartão de Crédito,Padrão,Nordeste,Cancelado
+911,54,Feminino,23,Boleto,Premium,Norte,Cancelado
+912,68,Masculino,44,Débito,Básico,Centro-Oeste,Ativo
+913,20,Masculino,50,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+914,40,Outros,56,Débito,Premium,Nordeste,Ativo
+915,52,Outros,47,Boleto,Premium,Norte,Ativo
+916,45,Masculino,44,Boleto,Premium,Nordeste,Cancelado
+917,60,Outros,42,Débito,Premium,Sudeste,Cancelado
+918,41,Outros,52,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+919,22,Masculino,45,Débito,Básico,Sul,Cancelado
+920,50,Feminino,17,Boleto,Básico,Sul,Ativo
+921,59,Feminino,40,Boleto,Padrão,Sul,Ativo
+922,39,Outros,31,Cartão de Crédito,Básico,Norte,Cancelado
+923,18,Outros,13,Boleto,Básico,Norte,Ativo
+924,44,Masculino,16,Débito,Básico,Centro-Oeste,Cancelado
+925,70,Masculino,18,Débito,Básico,Norte,Ativo
+926,49,Masculino,36,Débito,Básico,Sudeste,Cancelado
+927,24,Masculino,20,Débito,Básico,Centro-Oeste,Cancelado
+928,45,Feminino,15,Cartão de Crédito,Padrão,Centro-Oeste,Ativo
+929,41,Masculino,20,Débito,Básico,Sudeste,Ativo
+930,58,Masculino,50,Cartão de Crédito,Premium,Sudeste,Ativo
+931,47,Outros,19,Boleto,Padrão,Sudeste,Ativo
+932,63,Masculino,46,Boleto,Básico,Nordeste,Cancelado
+933,27,Outros,14,Cartão de Crédito,Premium,Sul,Cancelado
+934,45,Masculino,45,Cartão de Crédito,Básico,Sul,Ativo
+935,29,Masculino,46,Boleto,Premium,Centro-Oeste,Cancelado
+936,64,Outros,32,Boleto,Padrão,Sudeste,Ativo
+937,51,Feminino,21,Débito,Padrão,Norte,Cancelado
+938,59,Feminino,31,Cartão de Crédito,Premium,Sudeste,Cancelado
+939,35,Outros,23,Boleto,Básico,Centro-Oeste,Ativo
+940,57,Outros,36,Cartão de Crédito,Básico,Sul,Ativo
+941,69,Feminino,60,Boleto,Padrão,Nordeste,Cancelado
+942,52,Outros,60,Cartão de Crédito,Premium,Sudeste,Ativo
+943,67,Outros,51,Cartão de Crédito,Padrão,Sul,Ativo
+944,48,Outros,47,Boleto,Premium,Centro-Oeste,Ativo
+945,47,Outros,18,Débito,Padrão,Centro-Oeste,Ativo
+946,45,Outros,19,Débito,Padrão,Sul,Ativo
+947,70,Feminino,8,Débito,Premium,Sul,Cancelado
+948,64,Outros,37,Boleto,Padrão,Sudeste,Cancelado
+949,55,Feminino,44,Boleto,Básico,Norte,Cancelado
+950,35,Masculino,35,Débito,Premium,Sudeste,Cancelado
+951,38,Feminino,25,Boleto,Premium,Nordeste,Cancelado
+952,33,Masculino,58,Boleto,Premium,Sul,Ativo
+953,23,Feminino,26,Débito,Premium,Nordeste,Ativo
+954,35,Feminino,53,Boleto,Padrão,Nordeste,Ativo
+955,46,Outros,23,Boleto,Básico,Norte,Ativo
+956,33,Feminino,50,Cartão de Crédito,Padrão,Sudeste,Ativo
+957,66,Feminino,52,Cartão de Crédito,Básico,Centro-Oeste,Cancelado
+958,47,Outros,10,Débito,Básico,Nordeste,Ativo
+959,54,Masculino,19,Cartão de Crédito,Premium,Nordeste,Cancelado
+960,57,Feminino,3,Cartão de Crédito,Premium,Nordeste,Cancelado
+961,60,Outros,19,Boleto,Premium,Nordeste,Cancelado
+962,42,Masculino,46,Cartão de Crédito,Básico,Centro-Oeste,Ativo
+963,39,Feminino,6,Boleto,Básico,Sudeste,Cancelado
+964,19,Feminino,23,Cartão de Crédito,Premium,Norte,Ativo
+965,49,Feminino,60,Débito,Básico,Nordeste,Ativo
+966,38,Masculino,29,Boleto,Padrão,Sul,Cancelado
+967,29,Masculino,42,Cartão de Crédito,Premium,Centro-Oeste,Cancelado
+968,49,Feminino,17,Boleto,Padrão,Norte,Cancelado
+969,31,Feminino,48,Débito,Padrão,Sul,Cancelado
+970,40,Masculino,31,Débito,Padrão,Sul,Ativo
+971,69,Outros,14,Boleto,Padrão,Sul,Ativo
+972,34,Masculino,13,Débito,Premium,Nordeste,Ativo
+973,39,Outros,53,Débito,Padrão,Sudeste,Cancelado
+974,35,Outros,35,Cartão de Crédito,Premium,Nordeste,Ativo
+975,56,Outros,18,Débito,Premium,Sul,Ativo
+976,62,Feminino,60,Cartão de Crédito,Padrão,Norte,Ativo
+977,35,Feminino,36,Boleto,Básico,Nordeste,Ativo
+978,53,Outros,45,Débito,Básico,Norte,Ativo
+979,18,Outros,18,Boleto,Padrão,Nordeste,Cancelado
+980,51,Outros,9,Débito,Padrão,Sudeste,Ativo
+981,30,Masculino,7,Cartão de Crédito,Básico,Sudeste,Ativo
+982,23,Feminino,40,Débito,Premium,Nordeste,Ativo
+983,33,Outros,48,Boleto,Premium,Nordeste,Cancelado
+984,64,Outros,38,Débito,Premium,Sudeste,Cancelado
+985,44,Masculino,16,Cartão de Crédito,Premium,Norte,Ativo
+986,49,Feminino,16,Boleto,Padrão,Sudeste,Ativo
+987,53,Outros,4,Cartão de Crédito,Básico,Nordeste,Ativo
+988,66,Feminino,43,Débito,Padrão,Norte,Cancelado
+989,33,Outros,58,Débito,Padrão,Nordeste,Ativo
+990,62,Masculino,34,Cartão de Crédito,Premium,Centro-Oeste,Ativo
+991,48,Masculino,15,Boleto,Básico,Nordeste,Cancelado
+992,59,Feminino,41,Cartão de Crédito,Básico,Sudeste,Ativo
+993,63,Masculino,15,Boleto,Premium,Sul,Cancelado
+994,49,Feminino,4,Boleto,Padrão,Sudeste,Cancelado
+995,46,Outros,7,Boleto,Padrão,Sudeste,Ativo
+996,68,Masculino,27,Cartão de Crédito,Padrão,Norte,Ativo
+997,19,Outros,22,Boleto,Básico,Centro-Oeste,Cancelado
+998,23,Outros,46,Cartão de Crédito,Padrão,Norte,Cancelado
+999,36,Masculino,31,Cartão de Crédito,Padrão,Nordeste,Cancelado
+1000,32,Masculino,7,Cartão de Crédito,Padrão,Sul,Cancelado

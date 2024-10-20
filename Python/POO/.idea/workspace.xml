@@ -4,42 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef8f0bb1-79db-41cb-be05-fef15231db0b" name="Changes" comment="" />
+    <list default="true" id="f23cdb5f-839c-46c6-850a-1f359cc3dae4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2mZs5O5yazKYkV76FDlD6K7Wiq3" />
+  <component name="ProjectId" id="2nDZJcskjoZGgLjygAq20D0vxQ7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.4. Teste.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.5. Encapsulamentos.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.6. Exercício Carro.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Exemplo 1 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Exemplo 1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Exemplo 2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Exemplo 3.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vanes/OneDrive/Área de Trabalho/TI/ST Feshow/Python/POO&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-ConfiguredPythonInterpreter": "Python interpreter configured",
+    "Notification.DoNotAsk-ConfiguredPythonInterpreter": "true",
+    "Python.1. Controle Remoto.executor": "Run",
+    "Python.11 - Pintando Parede.executor": "Run",
+    "Python.14 - Conversor de Temperaturas.executor": "Run",
+    "Python.22 - Analisador de Textos.executor": "Debug",
+    "Python.3. Televisão.executor": "Run",
+    "Python.30 - Par ou Ímpar.executor": "Run",
+    "Python.4. Teste do __Del__.executor": "Run",
+    "Python.41 - Classificando Atletas.executor": "Run",
+    "Python.7 - Média Aritmética.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vanes/OneDrive/Área de Trabalho/TI/ST Feshow/Python/MUNDOS",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\POO" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.6. Exercício Carro">
-    <configuration name="1. Controle Remoto" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="POO" />
+}]]></component>
+  <component name="RunManager" selected="Python.4. Teste do __Del__">
+    <configuration name="1. Controle Remoto" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +46,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\POO\1. Controle Remoto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Controle Remoto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,8 +60,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Carro e Conta Bancária" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="POO" />
+    <configuration name="3. Televisão" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\POO\2. Carro e Conta Bancária.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Televisão.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,8 +83,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Televisão" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="POO" />
+    <configuration name="41 - Classificando Atletas" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\POO\3. Televisão.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 2/41 - Classificando Atletas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,8 +106,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Teste do __Del__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="POO" />
+    <configuration name="4. Teste do __Del__" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vanes\OneDrive\Área de Trabalho\TI\ST Feshow\Python\POO\4. Teste do __Del__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Teste do __Del__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,8 +129,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Encapsulamentos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="POO" />
+    <configuration name="7 - Média Aritmética" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Encapsulamentos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO 1/7 - Média Aritmética.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,8 +152,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Exercício Carro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="POO" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true">
+      <module name="MUNDOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12 (MUNDOS)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercício Carro.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,13 +175,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.1. Controle Remoto" />
+      <item itemvalue="Python.3. Televisão" />
+      <item itemvalue="Python.4. Teste do __Del__" />
+      <item itemvalue="Python.7 - Média Aritmética" />
+      <item itemvalue="Python.41 - Classificando Atletas" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6. Exercício Carro" />
-        <item itemvalue="Python.5. Encapsulamentos" />
         <item itemvalue="Python.4. Teste do __Del__" />
         <item itemvalue="Python.3. Televisão" />
-        <item itemvalue="Python.2. Carro e Conta Bancária" />
+        <item itemvalue="Python.1. Controle Remoto" />
+        <item itemvalue="Python.7 - Média Aritmética" />
+        <item itemvalue="Python.41 - Classificando Atletas" />
       </list>
     </recent_temporary>
   </component>
@@ -190,11 +202,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef8f0bb1-79db-41cb-be05-fef15231db0b" name="Changes" comment="" />
-      <created>1727295249006</created>
+      <changelist id="f23cdb5f-839c-46c6-850a-1f359cc3dae4" name="Changes" comment="" />
+      <created>1728509535679</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727295249006</updated>
+      <updated>1728509535679</updated>
     </task>
     <servers />
   </component>
