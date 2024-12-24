@@ -1,0 +1,5 @@
+x = (input("Digite um número entre 0 a 9999")).zfill(4)
+print("A casa da unidade tem valor de {}".format(x[3]))
+print("A casa da dezena tem valor de {}".format(x[2]))
+print("A casa da centena tem valor de {}".format(x[1]))
+print("A casa do milhar tem valor de {}".format(x[0]))

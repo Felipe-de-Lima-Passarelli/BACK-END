@@ -1,0 +1,5 @@
+x = str(input("Digite seu nome completo: "))
+print(x.upper())
+print(x.lower())
+print(len(x.replace(" ", "")))
+print(len(x.split()[0]))
