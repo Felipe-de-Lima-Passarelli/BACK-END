@@ -1,5 +1,0 @@
-x = str(input("Digite uma frase aleatória: "))
-z = x.upper()
-print("O caracter (A) aparece na frase {} vezes".format(z.count("A")))
-print("O caracter (A) aparece a primeira vez na posição {}".format(z.find("A")))
-print("O caracter (A) aparece pela última vez vez na posição {}".format(z.rfind("A")))

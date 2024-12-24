@@ -1,3 +1,2 @@
-# Estudos em Python
-
-Exercícios realizados enquanto estudo Python.
+# Flet
+ Estudos do framework Flet no Python

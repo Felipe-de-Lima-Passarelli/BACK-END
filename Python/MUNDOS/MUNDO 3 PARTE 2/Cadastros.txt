@@ -1,4 +1,0 @@
-Nome: Gustavo | Idade: 30
-Nome: João Paulo | Idade: 32
-Nome: Felipe de Lima | Idade: 24
-Nome: Patricia | Idade: 30
