@@ -3,21 +3,21 @@ import scrapy
 class primeira_spider(scrapy.Spider): # Definição da classe que representa a Spider.
     name = "q"  # O nome da Spider, usado para identificá-la quando executada.
 
-    custom_settings = {
+    custom_settings = { #Formatação correta para salvar em json
         "FEED_EXPORT_ENCODING": "utf-8"
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
-        yield scrapy.Request("https://quotes.toscrape.com/page/1")
+        yield scrapy.Request("https://quotes.toscrape.com/tag/love/page/1/")
 
     def parse(self, response, **kwargs):  # Função que processa a resposta da requisição.
         # Extraímos todos os blocos de citações da página usando XPath.
         blocos = response.xpath('//div[@class="quote"]')
 
         for bloco in blocos:
-            texto = bloco.xpath('./span[@class="text"]/text()').get()  # O texto da citação.
-            autor = bloco.xpath('.//small/text()').get()  # O nome do autor da citação.
-            tags = bloco.xpath('.//a[@class="tag"]/text()').getall()  # As tags associadas à citação.
+            texto = bloco.xpath('.//span[@class="text"]/text()').get()
+            autor = bloco.xpath('.//small[@class="author"]/text()').get()
+            tags = bloco.xpath('.//div[@class="tags"]/a/text()').getall()
 
             yield {
                 "texto": texto,
