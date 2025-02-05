@@ -26,6 +26,9 @@ class primeira_spider(scrapy.Spider): #propriedade obrigatória
                                  callback = self.parse)
 
 #Comandos para executar no terminal e ver os dados adquiridos
-#scrapy runspider "Nome_do_Arquivo.py" -o "Nome_para_Salvar."formato":"formato"
+#scrapy runspider "Nome_do_Arquivo.py" -o "Nome_para_Salvar."formato":"formato" (Formato para salvar o arquivo)
 #scrapy runspider "Primeira_Spider.py" -o Primeira_Spider.csv:csv
 #scrapy runspider "Primeira_Spider.py" -o Primeira_Spider.json:json
+
+#scrapy runspider "Local_do_Arquivo.py" -o -:json (Formato para ler o arquivo sem salvar)
+#exemplo: scrapy runspider "Python\Projetos_Scrapy\Primeira_Spider.py" -o -:json
