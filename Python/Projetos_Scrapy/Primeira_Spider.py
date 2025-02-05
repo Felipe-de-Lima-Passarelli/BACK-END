@@ -4,7 +4,8 @@ class primeira_spider(scrapy.Spider): # Definição da classe que representa a S
     name = "q"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
-        "FEED_EXPORT_ENCODING": "utf-8"
+        "FEED_EXPORT_ENCODING": "utf-8",
+        "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0"
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
@@ -15,7 +16,7 @@ class primeira_spider(scrapy.Spider): # Definição da classe que representa a S
         blocos = response.xpath('//div[@class="quote"]')
 
         for bloco in blocos:
-            texto = bloco.xpath('./span[@class="text"]/text()').get()  # O texto da citação.
+            texto = bloco.xpath('.//span[@class="text"]/text()').get()  # O texto da citação.
             autor = bloco.xpath('.//small/text()').get()  # O nome do autor da citação.
             tags = bloco.xpath('.//a[@class="tag"]/text()').getall()  # As tags associadas à citação.
 
