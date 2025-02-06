@@ -1,6 +1,6 @@
 import scrapy
 
-class primeira_spider(scrapy.Spider): # Definição da classe que representa a Spider.
+class spider(scrapy.Spider): # Definição da classe que representa a Spider.
     name = "q"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {

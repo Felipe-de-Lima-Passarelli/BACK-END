@@ -1,7 +1,7 @@
 import scrapy
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
-    name = "q"  # O nome da Spider, usado para identificá-la quando executada.
+    name = "livro"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
@@ -9,21 +9,19 @@ class spider(scrapy.Spider): # Definição da classe que representa a Spider.
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
-        yield scrapy.Request("https://quotes.toscrape.com/page/1")
+        yield scrapy.Request("https://books.toscrape.com")
 
     def parse(self, response, **kwargs):  # Função que processa a resposta da requisição.
         # Extraímos todos os blocos de citações da página usando XPath.
-        blocos = response.xpath('//div[@class="quote"]')
+        blocos = response.xpath('//li[@class="col-xs-6 col-sm-4 col-md-3 col-lg-3"]')
 
         for bloco in blocos:
-            texto = bloco.xpath('.//span[@class="text"]/text()').get()  # O texto da citação.
-            autor = bloco.xpath('.//small/text()').get()  # O nome do autor da citação.
-            tags = bloco.xpath('.//a[@class="tag"]/text()').getall()  # As tags associadas à citação.
+            nome_livro = bloco.xpath('.//article/h3/a/text()').get()
+            custo_livro = bloco.xpath('.//article/div[2]/p[1]/text()').get()
 
             yield {
-                "texto": texto,
-                "autor": autor,
-                "tags": tags
+                "nome_livro": nome_livro,
+                "custo_livro": custo_livro
             }
 
         # Verifica se existe uma próxima página no site.
