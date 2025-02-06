@@ -1,7 +1,7 @@
 import scrapy
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
-    name = "NOME"  # O nome da Spider, usado para identificá-la quando executada.
+    name = "Top_1000_animes"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
@@ -9,21 +9,23 @@ class spider(scrapy.Spider): # Definição da classe que representa a Spider.
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
-        yield scrapy.Request("URL")
+        yield scrapy.Request("https://myanimelist.net/topanime.php")
 
     def parse(self, response, **kwargs):  # Função que processa a resposta da requisição.
         # Extraímos todos os blocos de citações da página usando XPath.
-        blocos = response.xpath('xpath')
+        blocos = response.xpath('//tr[@class="ranking-list"]')
 
         for bloco in blocos:
-            texto = bloco.xpath('xpath').get()
+            nome = bloco.xpath('.//td[2]/div/div[2]/h3/a/text()').get()
+            eps = bloco.xpath('.//td[2]/div/div[3]/text()[1]').get().strip()
 
             yield {
-                "nome": "valor"
+                "nome": nome,
+                "eps": eps
             }
 
         # Verifica se existe uma próxima página no site.
-        proxima_pagina = response.xpath('xpath').get()
+        proxima_pagina = response.xpath('(//a[@class="link-blue-box next"]/@href)[1]').get()
 
         if proxima_pagina:
             yield response.follow(proxima_pagina, callback = self.parse) #Função responsável por trocar de página
