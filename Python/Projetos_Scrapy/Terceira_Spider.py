@@ -1,7 +1,7 @@
 import scrapy
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
-    name = "Filmes_IMDB"  # O nome da Spider, usado para identificá-la quando executada.
+    name = "Top_50_Animes"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",

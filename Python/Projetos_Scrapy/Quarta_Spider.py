@@ -1,7 +1,7 @@
 import scrapy
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
-    name = "livro"  # O nome da Spider, usado para identificá-la quando executada.
+    name = "livros"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
