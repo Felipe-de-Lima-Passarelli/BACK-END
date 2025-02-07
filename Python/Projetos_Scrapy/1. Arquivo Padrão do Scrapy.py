@@ -1,11 +1,12 @@
 import scrapy
+from scrapy import Spider
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
     name = "NOME"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
-        "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0"
+        "USER_AGENT": "x"
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
@@ -16,10 +17,12 @@ class spider(scrapy.Spider): # Definição da classe que representa a Spider.
         blocos = response.xpath('xpath')
 
         for bloco in blocos:
-            texto = bloco.xpath('xpath').get()
+            nome = bloco.xpath('xpath').get()
 
             yield {
-                "nome": "valor"
+                "nome1": "valor",
+                "nome2": "valor",
+                "nome3": "valor"
             }
 
         # Verifica se existe uma próxima página no site.
@@ -27,6 +30,10 @@ class spider(scrapy.Spider): # Definição da classe que representa a Spider.
 
         if proxima_pagina:
             yield response.follow(proxima_pagina, callback = self.parse) #Função responsável por trocar de página
+
+        #if proxima_pagina:
+            #yield scrapy.Request("link_inicial" + str(self.primeira_pagina + 1),
+#                                       callback = self.parse)
 
 # Comandos para rodar a Spider no terminal e salvar os dados coletados:
 # Para salvar os dados em formato CSV:

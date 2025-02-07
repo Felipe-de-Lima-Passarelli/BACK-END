@@ -5,7 +5,7 @@ class spider(scrapy.Spider): # Definição da classe que representa a Spider.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
-        "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0"
+        "USER_AGENT": "x"
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
