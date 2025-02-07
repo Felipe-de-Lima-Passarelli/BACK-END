@@ -1,12 +1,14 @@
 import scrapy
-from scrapy import Spider
+from fake_useragent import UserAgent
+
+USER_AGENT = UserAgent().random
 
 class spider(scrapy.Spider): # Definição da classe que representa a Spider.
     name = "NOME"  # O nome da Spider, usado para identificá-la quando executada.
 
     custom_settings = {
         "FEED_EXPORT_ENCODING": "utf-8",
-        "USER_AGENT": "x"
+        "USER_AGENT": USER_AGENT
     }
 
     def start_requests(self):  # Função responsável por fazer as requisições iniciais na primeira página.
