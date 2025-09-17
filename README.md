@@ -43,7 +43,7 @@ Estou aprimorando minhas habilidades em **automação, análise de dados e IA**,
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-de-lima-passarelli-6099362a0/)  
-- [E-mail](mailto:seuemail@exemplo.com)  
+- [E-mail](mailto:malamdorox@gmail.com)  
 
 ---
 ✨ Obrigado por visitar este repositório!
