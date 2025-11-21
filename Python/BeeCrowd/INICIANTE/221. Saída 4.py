@@ -1,0 +1,23 @@
+x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11 = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+x12, x13, x14, x15, x16 = 11, 12, 13, 14, 15
+
+print(39 * "-")
+print("|  decimal  |  octal  |  Hexadecimal  |")
+print(39 * "-")
+print(f"|     {x1:>2}    |   {oct(x1)[2:]:>2}    |      {hex(x1)[2:].upper():>2}       |")
+print(f"|     {x2:>2}    |   {oct(x2)[2:]:>2}    |      {hex(x2)[2:].upper():>2}       |")
+print(f"|     {x3:>2}    |   {oct(x3)[2:]:>2}    |      {hex(x3)[2:].upper():>2}       |")
+print(f"|     {x4:>2}    |   {oct(x4)[2:]:>2}    |      {hex(x4)[2:].upper():>2}       |")
+print(f"|     {x5:>2}    |   {oct(x5)[2:]:>2}    |      {hex(x5)[2:].upper():>2}       |")
+print(f"|     {x6:>2}    |   {oct(x6)[2:]:>2}    |      {hex(x6)[2:].upper():>2}       |")
+print(f"|     {x7:>2}    |   {oct(x7)[2:]:>2}    |      {hex(x7)[2:].upper():>2}       |")
+print(f"|     {x8:>2}    |   {oct(x8)[2:]:>2}    |      {hex(x8)[2:].upper():>2}       |")
+print(f"|     {x9:>2}    |   {oct(x9)[2:]:>2}    |      {hex(x9)[2:].upper():>2}       |")
+print(f"|     {x10:>2}    |   {oct(x10)[2:]:>2}    |      {hex(x10)[2:].upper():>2}       |")
+print(f"|     {x11:>2}    |   {oct(x11)[2:]:>2}    |      {hex(x11)[2:].upper():>2}       |")
+print(f"|     {x12:>2}    |   {oct(x12)[2:]:>2}    |      {hex(x12)[2:].upper():>2}       |")
+print(f"|     {x13:>2}    |   {oct(x13)[2:]:>2}    |      {hex(x13)[2:].upper():>2}       |")
+print(f"|     {x14:>2}    |   {oct(x14)[2:]:>2}    |      {hex(x14)[2:].upper():>2}       |")
+print(f"|     {x15:>2}    |   {oct(x15)[2:]:>2}    |      {hex(x15)[2:].upper():>2}       |")
+print(f"|     {x16:>2}    |   {oct(x16)[2:]:>2}    |      {hex(x16)[2:].upper():>2}       |")
+print(39 * "-")
