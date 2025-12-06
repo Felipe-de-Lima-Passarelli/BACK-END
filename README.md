@@ -33,13 +33,6 @@ Aqui você encontrará meus estudos, exercícios e projetos desenvolvidos com **
 
 ---
 
-## 🌱 Sobre mim
-
-Sou **Engenheiro Civil** em transição para **Desenvolvimento de Software**, com foco em Python Back-End.  
-Estou aprimorando minhas habilidades em **automação, análise de dados e IA**, aplicando conhecimento em projetos práticos.
-
----
-
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-de-lima-passarelli-6099362a0/)  
